@@ -1,0 +1,151 @@
+my first question is what is your
+opinion about a machine intelligent
+research and its application potential
+all I would like to say that machine
+intelligence I was very active in this
+field for many years and I think that it
+gains popularity and importance very
+much in the last year's because in my
+opinion is that there is a scarcity of
+expertise human expertise and and
+machine intelligence promises to some
+extent that we can incorporate in the
+machines some facilities as human humans
+have and that we will be able to
+accomplish tasks that are very expensive
+or there is a scarcity of human
+expertise so this is the most important
+icing and I also think that they if not
+the Machine children should be they
+considered into from two different
+points of view the one point of visa
+direct one without well direct way means
+that you construct systems are somehow
+intelligent whatever in beans you know
+and the second one is that you add some
+intelligence to the existing systems
+models and so on so what I was trying to
+do in my research me was mainly we
+consider the database and try to
+introduce something like a intelligent
+querying for the database and in fact
+this so we didn't let say change
+database itself database was as it as it
+was in the company or in them in any
+agency and we try to somehow soften the
+existing acquiring capability so this
+was a i think a successful troll because
+no she use now in some hotel reservation
+systems webs websites place to stay this
+kind of stuff you can you can enter as a
+thousand you see that you do defined
+user profile and do different
+preferences a very fast way so this side
+I think it's a what we do but we stopped
+in the mid-80s introduced over there is
+so basically this is my opinion facts
+which is
+your point of view the most important
+question in this domain research
+question or four in your field didn't
+have to say because you know why I'm not
+provide I would have to sing very long a
+possible but let me just tell you
+something what I think is very important
+that human intelligence system do not
+operate in a vacuum they operate in a
+human society one of the 40 say
+popularity and their implementation is
+very important to human beings except
+them and I think that a very safe
+approach is to build systems that don't
+they don't they wouldn't interfere very
+much in manifest because there were no
+success your sister should somehow help
+you know human being but rather replace
+them it in sophisticated task because
+human rejection would mean that the
+system would be implemented by my
+opinion what are the most important
+aspect of this research for real-world
+applications yes very very broad
+question and I think that in my opinion
+at least that this question should be
+somehow a decomposed into smaller
+questions because you know if you twist
+it try to solve it said the old world's
+problem we wouldn't do this so I think
+that this stage the state of first its
+now let's see realistic approach is to
+so very small question because if
+intelligent systems are very beginning
+so they are much less intelligent and
+even the least intelligent human being
+and that's why probably we can ever get
+help you know somehow human humans or
+solve the real problem but we replacing
+the human side in my opinion anyway then
+the challenge is to support decision
+making because the decision making is
+becoming more and more more
+sophisticated and difficult and i see
+that human beings are overloaded so we
+have to do something to help them you
+know not replacing but help them make
+better decisions especially in maybe not
+meet the technological area but there
+are areas we were there is much
+competition no and the last people have
+less and less time they are overloaded
+they were very long and they need some
+decisions about making business for
+instance what do you think that if the
+world should discuss about the problem
+of interaction between human and robot
+robots and human interaction we should
+so I my purse I I never did anything
+with robotics but I need something like
+in the system so i think that into a
+human man-machine interaction let's call
+it in an old-fashioned way is the key
+issues are in fact you know i think that
+without solving this problem will not be
+able to do anything because human beings
+are very nasty creatures so it all they
+don't actually don't like except
+something which is not less a consistent
+with their vision of the day they're
+willing in essence edges and i think
+that for any any intelligence system you
+can imagine one of the say bottlenecks
+in the application on implementation is
+that the human machine interaction is
+very non human consistent it means that
+is it somehow people don't understand
+many of the news also implement the
+system don't understand that Intel most
+of the systems
+intelligent system let's say our for
+non-specialists they are not for
+computer specialists the users will have
+will be completely non specialist and if
+you assume this point of departure then
+you're let's say man-machine interface
+will be much much even consistent which
+is not the case Safari my next question
+is do you believe that human brain will
+be created yes or not just artificial
+brain turn I don't think so because if
+this happens you would not be necessary
+we're not just selling the world by
+sugar just so well I think that's human
+brain soon human brain is too
+sophisticated but not only brain that
+human mind you know and human let's say
+feelings and I don't think that because
+you know it's a like for instance if we
+discover everything there is no no no me
+no place for science for anything else
+and this would be the end of the world
+and travelers will not happen because of
+this fact so I don't believe this fact

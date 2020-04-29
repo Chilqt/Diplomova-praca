@@ -1,0 +1,163 @@
+my first question is what is your
+opinion about machine intelligent
+research and its application potential
+well machine intelligence research
+sometimes in the United States we call
+it the area of intelligent systems is a
+kind of Special Branch I belief of
+artificial intelligence which is devoted
+to developing machines which would
+perform very complex tasks in an
+intelligent but a human-like way in
+other words they are trying to perform
+these operations in the way in which
+human beings are doing that the
+traditional artificial intelligence
+didn't care about how it is done it was
+basically viewed as you know doing
+something on the computer no matter how
+which would somehow be similar to to
+what it's a complete by humans but in in
+machine intelligently the important
+point is that they want to study how
+human beings are doing that and
+therefore it is very very different this
+human-like is taken very seriously so in
+that sense this requires of course new
+challenges because for example the
+classical mathematics of and the
+classical logic to various logic is not
+sufficient for that because here the
+human beings do not work with precise
+categories they do not work with precise
+measurements and so forth it was
+emphasized by Professor Dada in his
+introductory speech but they are
+basically working their reasoning and
+acting upon perceptions now perceptions
+can be approximated pretty well by
+natural language so there is a kind of a
+sequence of starting with perceptions
+then approximating the perceptions in
+natural language but that's still
+natural language cannot be pretty well
+expressed in terms of classical
+mathematics in classical logic so then
+we have a new tool of course fuzzy logic
+and various uncertainty theories which
+can do that which can approximate
+natural language not completely
+represent
+but approximate natural language and
+then we can use these representations to
+actually perform these tasks to do the
+reasoning decision-making and whatever
+is needed for performing these tasks so
+I think this is a totally new kind of
+direction very different from the from
+the traditional one and the potential is
+tremendous because it term end is
+because the classical area cannot handle
+this human-like kind of things we cannot
+at this point we still cannot design a
+machine which would automatically park
+the car or which would drive the car in
+a in a heavy traffic of a city and
+things like that we cannot do that but
+hopefully with using the the perceptions
+being able to actually process reason
+with perceptions and and propositions in
+natural language eventually this will be
+possible so there are many many
+applications of course which were
+covered in this conference I mean so I
+cannot go to all the application areas
+but the potential is tremendous it's
+just a very new area very significant
+area and very different from the
+traditional man I would call it even
+like a very new grand paradigm shift you
+know in science and engineering what do
+you think what is the most important
+aspect of these technologies for
+industrial applications or real-world
+applications well I believe that it is
+the transition from what is called the
+heart computing to what we call now soft
+computing now soft computing is a kind
+of partnership of a number of
+technologies they are all kind of
+emerging technologies primarily starting
+with the 80s most more or less and they
+include like fuzzy logic of course
+that's very important fuzzy logic fuzzy
+set theory they include neural networks
+and then they include evolutionary
+programming and genetic algorithms and
+all that area then you have other areas
+like reasoning this impresses
+probabilities and this is connected with
+various theories of uncertainty
+issue of how to measure uncertainty and
+how to utilize various important
+principles of uncertainty then you have
+of course other other formulas language
+is like rough set C or E etc so they say
+there's a whole whole category of tools
+relatively new tools which have
+developed well we can say during the
+last half of the 20th century but more
+closer to the end of the century and
+they are now integrated under the
+umbrella term soft computing and they
+are used together they're kind of hybrid
+system they are used you know
+opportunistically according to what we
+need in each particular application
+context but i think that the soft
+computing is the dominating aspect if
+you if you want of the of this machine
+intelligence or we used to call it also
+intelligent systems area do you believe
+that artificial brain will be created
+well this is a very difficult question I
+am by nature and optimist and I I think
+that in principle I don't see any reason
+why it could not be but you know this is
+just a speculation and you know in some
+sense there might be some inherent
+difficulty and the difficulty might be
+that there will be always kind of
+residue which we could not properly
+understand and properly represent some
+residue like for example we are natural
+language we look at natural language
+human beings communicate via natural
+language now we we try to develop
+various new formalized languages by
+which we can represent better and better
+in a better and better way natural
+language and that you know starting with
+classical to valued logics that's very
+very bad for representing natural
+language but we then have multivalued
+logic then we have motor logics and we
+have now fuzzy logic and so forth so we
+we are trying to
+to have a better and better
+representation of natural language but
+the question is whether you know we can
+we can represent it fully always always
+there is some kind of gap and that's a
+very interesting speculative question
+whether such a gap can be closed or
+never closed if we can never close it
+then then actually there's something
+something which is remaining that which
+we never be able to do i I just I'm
+optimist you know meaning that I i would
+i would not say no it's impossible but i
+am at the same time i am doubtful
+somewhat there is some kind of residue
+which cannot be which cannot be sort of
+breached
