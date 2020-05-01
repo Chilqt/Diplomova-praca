@@ -1,0 +1,144 @@
+my first question is what is your
+opinion about machine intelligence and
+its application potential well you know
+I have been interested in those issues
+for a long long time and I've written a
+paper called Thinking Machines more than
+50 years ago yes
+and so obviously enough machine
+intelligence is something that's
+becoming more important more visible but
+my views are somewhat different from the
+views of the AI community and AI
+community after a certain point believed
+that many of these problems can be
+solved through the use of symbolic logic
+great admirer symbolic logic but I think
+symbolic logic is not really the way to
+deal with machine intelligence because
+humans do not use symbolic logic zero in
+1 so humans so fuzzy logic is much
+closer to human logic than symbolic
+logic is so when you talk about machine
+intelligence we should use fuzzy logic
+and not symbolic logic but the AI
+community has always been somewhat
+skeptical about fuzzy logic and
+sometimes antagonistic over fuzzy logic
+because of its clash with symbolic logic
+you see but but in within the AI
+community today things have changed so
+the thing that is fashionable today is
+what some people call new AI and new AI
+is oriented toward probabilistic
+computations in particular base units
+that is what's fashionable today base
+units which is completely completely
+different from sea
+balaraju so but my own thing is to move
+in the direction of perceptions I did
+not talk about perceptions in my own
+lecture here was concerned with some
+different issues but that's what I do
+believe is the direction understanding
+how humans can do so many things so well
+without using any measurements any
+computations the next question is what
+is the most important research question
+in this domain and in domain of machine
+intelligence
+yes there is to me the most important
+question or the most important
+application is that of adding deduction
+capability to search engines in the
+Internet today also value speech that's
+right today's search engines and Google
+is the best example have many remarkable
+capabilities but they don't have
+deduction capability and this is what's
+very important so what would be
+extremely important if instead of having
+a search engine you had a question
+answering engine see the question
+answering engine consists of a search
+engine plus deduction module in other
+words it gives you some information the
+answer may be that but then you have to
+do something to come up with the answer
+that question and today's search engines
+don't have that people they just search
+so if you had a question even simplest
+question simplest like how old this bush
+it will answer that question it would
+send you to websites with you know there
+is that but it won't ask that question
+and and furthermore as I mentioned in my
+presentation it doesn't understand
+that there's no answer for example if
+you said who is the king of France all
+right
+it will not say there is no king
+girlfriend it would send you to here and
+there and so how many how many PhDs were
+granted two horses in Slovakia ask
+questions like that stupidest thing you
+know sorry to come up with some answers
+do you think that world should discuss
+the problems of robot and human
+interaction if you think that wrote
+should this robot robot in human
+interaction well it's an important
+problem but frankly I don't believe in
+this sort of thing that this movie AI
+you know it's to me it's ridiculous it's
+highly would product it's not really a
+serious sort of a thing so that there is
+interaction but what form that
+interruption will take and how long and
+that that's something that's very
+difficult to anticipate at this point
+the day robots can do only extremely
+simple things extremely simple things
+what is the most important aspect of
+these and technologies for real-world
+applications what do you think well you
+know that's a very big question it's the
+kind of a question that's very difficult
+to answer and because what's the most
+important you know whatever the case
+might be it's very difficult to answer
+so that I think that and I want to
+return to that theme again to me the
+most important one is question action
+capability because even robots in order
+to do certain things they have to answer
+some question in the mind of the robot
+you want to avoid an obstacle some
+questions arise is there something there
+is not something there so one thing that
+should be remembered is this decisions
+are based on information see so the
+system has to
+have a capability to digest information
+today systems cannot digest perception
+based information they do not have this
+capability so that we're actually at a
+very low stage of our understanding of
+these problems we are not at the high
+level very also have another question it
+was very very popular if you think that
+the brain it's possible to brain to be
+create or what do you think if yes or
+not certainly but in small ways you see
+if you create in terms of fuzzy logic
+has many meanings you can create simple
+things you can create the complicated
+theory you can create a symphony you can
+create something depends create what now
+let me tell you one thing machine cannot
+create okay compose melodic areas can I
+do a computer can compose some sort of a
+music but if you say can a computer
+compose the logic area the way
+Tchaikovsky could or vertical
+organization could know

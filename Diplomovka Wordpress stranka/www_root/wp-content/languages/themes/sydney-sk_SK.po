@@ -1,0 +1,2096 @@
+# Translation of Themes - Sydney in Slovak
+# This file is distributed under the same license as the Themes - Sydney package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-13 12:25:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sk\n"
+"Project-Id-Version: Themes - Sydney\n"
+
+#. Description of the theme
+msgid "Sydney is a powerful business theme that provides a fast way for companies or freelancers to create an awesome online presence. As well as being fully compatible with Elementor, Sydney brings plenty of customization possibilities like access to all Google Fonts, full color control, layout control, logo upload, full screen slider, header image, sticky navigation and much more. Also, Sydney provides all the construction blocks you need to rapidly create an engaging front page."
+msgstr "Sydney je výkonná obchodná téma, ktorá spoločnostiam alebo nezávislým pracovníkom poskytuje rýchly spôsob, ako vytvoriť úžasnú online prítomnosť. Okrem toho, že je Sydney plne kompatibilná s prvkom Elementor, prináša množstvo možností prispôsobenia, ako je prístup k všetkým písmom Google, úplná kontrola farieb, kontrola rozloženia, nahrávanie loga, posuvník na celej obrazovke, obrázok hlavičky, lepkavá navigácia a mnoho ďalších. Sydney tiež poskytuje všetky stavebné bloky, ktoré potrebujete na rýchle vytvorenie pútavej prednej stránky."
+
+#. Theme Name of the theme
+#: inc/onboarding/theme-info.php:136
+msgid "Sydney"
+msgstr "Sydney"
+
+#: inc/customizer.php:1145 inc/customizer.php:1210
+msgid "Please make sure your selected font weights are actually available for your font. You can check %s"
+msgstr "Uistite sa, že sú vybraté hrúbky písma skutočne k dispozícii pre vaše písmo. Môžete skontrolovať %s"
+
+#: inc/customizer.php:1144 inc/customizer.php:1209
+msgid "Font weights"
+msgstr "Hrúbka písma"
+
+#: inc/customizer.php:1078
+msgid "Font subsets"
+msgstr "Znakové sady písma"
+
+#: inc/customizer.php:1045 inc/customizer.php:1145 inc/customizer.php:1210
+msgid "here"
+msgstr "tu"
+
+#: inc/customizer.php:1045
+msgid "You can check out previews of the Google Fonts %s"
+msgstr "Môžete si pozrieť ukážky Google Fonts %s"
+
+#: inc/onboarding/theme-info.php:269
+msgid "Discover Sydney Pro"
+msgstr "Objavte Sydney Pro"
+
+#: inc/onboarding/theme-info.php:268
+msgid "Take Sydney to a whole other level by upgrading to the Pro version."
+msgstr "Prejdite so Sydney na úplne inú úroveň tým, že prejdete na verziu Pro."
+
+#: inc/onboarding/theme-info.php:263
+msgid "See the changelog"
+msgstr "Pozrite si záznam zmien"
+
+#: inc/onboarding/theme-info.php:262
+msgid "Keep informed about each theme update."
+msgstr "Neustále ma informujte o každej aktualizácii témy."
+
+#: inc/onboarding/theme-info.php:257
+msgid "Submit a review here"
+msgstr "Tu napíšte recenziu"
+
+#: inc/onboarding/theme-info.php:256
+msgid "It makes us happy to hear from our users. We would appreciate a review."
+msgstr "Je nám potešením, keď sa dozvieme od našich používateľov. Ocenili by sme recenziu."
+
+#: inc/onboarding/theme-info.php:248
+msgid "View Sydney Pro"
+msgstr "Zobraziť Sydney Pro"
+
+#: inc/onboarding/theme-info.php:108
+msgid "Font options"
+msgstr "Možnosti písma"
+
+#: inc/onboarding/theme-info.php:106
+msgid "Header options"
+msgstr "Možnosti hlavičky"
+
+#: inc/onboarding/theme-info.php:105
+msgid "Change your site title or add a logo"
+msgstr "Zmeňte názov svojej stránky alebo pridajte logo"
+
+#: inc/onboarding/theme-info.php:104
+msgid "Theme elements can be styled from the Customizer. Use the links below to go straight to the section you want."
+msgstr "Prvky témy môžu byť štylizované z Prispôsobiť. Pomocou odkazov uvedených nižšie prejdete priamo na požadovanú časť."
+
+#: inc/onboarding/theme-info.php:103
+msgid "Styling with the Customizer"
+msgstr "Štýlovať cez Prispôsobiť"
+
+#: inc/onboarding/theme-info.php:97
+msgid "All recommended plugins need to be installed and activated for this step."
+msgstr "Na tento krok je potrebné nainštalovať a aktivovať všetky odporúčané pluginy."
+
+#: inc/onboarding/theme-info.php:85
+msgid "Importing the demo will make your website look like our website."
+msgstr "Po importovaní dema bude vaša webová stránka vyzerať ako náš web."
+
+#: inc/onboarding/theme-info.php:84
+msgid "Import demo content (optional)"
+msgstr "Importovať demo obsah (voliteľné)"
+
+#: inc/onboarding/theme-info.php:76
+msgid "This plugin is useful for importing our demos. You can uninstall it after you're done with it."
+msgstr "Tento plugin je užitočný na import nášho dema. Po dokončení môžete plugin odinštalovať."
+
+#: inc/onboarding/theme-info.php:67
+msgid "First time Elementor user?"
+msgstr "Prvýkrát používate Elementor?"
+
+#: inc/onboarding/theme-info.php:62
+msgid "Elementor will enable you to create pages by adding widgets to them using drag and drop."
+msgstr "Elementor vám umožní vytvárať stránky pridaním widgetov pomocou chyť a pusť."
+
+#: inc/onboarding/theme-info.php:55
+msgid "Sydney Toolbox is a free addon for the Sydney WordPress theme. It helps with things like demo import and additional Elementor widgets."
+msgstr "Sydney Toolbox je bezplatný doplnok pre tému Sydney WordPress. Pomáha s vecami ako je demo import a ďalšie widgety Elementor."
+
+#: inc/onboarding/theme-info.php:49
+msgid "Install one plugin at a time. Wait for each plugin to activate."
+msgstr "Nainštalujte po jednom plugine. Počkajte, kým sa každý plugin aktivuje."
+
+#: inc/onboarding/theme-info.php:48
+msgid "Install recommended plugins"
+msgstr "Nainštalujte odporúčané pluginy"
+
+#: inc/onboarding/theme-info.php:32
+msgid "Sydney is now installed and ready to go. To help you with the next step, we’ve gathered together on this page all the resources you might need. We hope you enjoy using Sydney. You can always come back to this page by going to <strong>Appearance > Sydney Info</strong>."
+msgstr "Sydney je teraz nainštalovaná a pripravená na použitie. Aby sme vám pomohli s ďalším krokom, zhromaždili sme na tejto stránke všetky zdroje, ktoré by ste mohli potrebovať. Dúfame, že sa vám Sydney bude páčiť. Na túto stránku sa môžete kedykoľvek vrátiť tak, že prejdete na <strong>Vzhľad > Sydney Info</strong>."
+
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:155
+msgid "Activating "
+msgstr "Aktivuje sa"
+
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:112
+msgid "Jetpack Portfolio"
+msgstr "Portfólio Jetpack"
+
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:107
+msgid "Deactivate"
+msgstr "Deaktivovať"
+
+#: inc/customizer.php:818 inc/customizer.php:1934
+msgid "Modern"
+msgstr "Moderný"
+
+#: content-modern.php:40
+msgid "Read more"
+msgstr "Čítať viac"
+
+#: inc/customizer.php:305 inc/customizer.php:2016
+msgid "or go to the Customizer"
+msgstr "alebo prejsť na Prispôsobenie"
+
+#: inc/customizer.php:287 inc/customizer.php:2000
+msgid "Click the pencil icon to change this text"
+msgstr "Kliknite na ikonu ceruzky pre zmenu textu"
+
+#. Template Name of the theme
+msgid "No sidebar"
+msgstr "Žiadny sidebar"
+
+#. Template Name of the theme
+msgid "Page builder ready"
+msgstr "Page builder pripravený"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Aktivovať %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Aktualizovať %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Inštalovať %2$s"
+
+#: plugins/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Žiadne pluginy na inštaláciu, aktualizáciu alebo aktiváciu."
+
+#. translators: 1: install status, 2: update status
+#: plugins/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: %s: version number
+#: plugins/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: plugins/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Je tu jeden alebo viac požadovaných alebo odporúčaných pluginov na inštaláciu, aktualizáciu alebo aktiváciu."
+
+#. translators: %s: plugin name.
+#: plugins/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Aktualizuje sa plugin: %s"
+
+#: inc/template-tags.php:81
+msgctxt "post date"
+msgid "Posted %s"
+msgstr "Zverejnený %s"
+
+#: inc/customizer.php:1446
+msgid "Single post title size"
+msgstr "Veľkosť názvu jedného príspevku"
+
+#: inc/customizer.php:817 inc/customizer.php:1933
+msgid "Classic (alternative)"
+msgstr "Klasický (alternatívny)"
+
+#: inc/onboarding/theme-info.php:242
+msgid "Priority support"
+msgstr "Prioritná podpora"
+
+#: inc/onboarding/theme-info.php:237
+msgid "5 Extra Page Templates (Contact, Featured Header - Default, Featured Header - Wide, No Header - Default, No Header - Wide)"
+msgstr "5 šablón navyše (kontakt, odporúčaná hlavička - predvolená, hlavička - široká, žiadna hlavička - predvolená, žiadna hlavička - široká)"
+
+#: inc/onboarding/theme-info.php:232
+msgid "WooCommerce compatible"
+msgstr "WooCommerce kompatibilný"
+
+#: inc/onboarding/theme-info.php:227
+msgid "Single Post/Page Options"
+msgstr "Možnosti jedného príspevku/stránky"
+
+#: inc/onboarding/theme-info.php:222
+msgid "Header support for shortcodes"
+msgstr "Podpora hlavičky pre krátke kódy"
+
+#: inc/onboarding/theme-info.php:217
+msgid "Header support for Crelly Slider"
+msgstr "Podpora hlavičky pre Crelly Slider"
+
+#: inc/onboarding/theme-info.php:212
+msgid "Extra Customizer Options (Front Page Section Titles, Single Employees, Single Projects, Header Contact Info, Buttons)"
+msgstr "Extra možnosti prispôsobiteľného prvku (Názvy sekcií na prednej stránke, jednotliví zamestnanci, jednotlivé projekty, kontaktné informácie hlavičky, tlačidlá)"
+
+#: inc/onboarding/theme-info.php:207
+msgid "Extra widgets (timeline, latest news in carousel, pricing tables, a new employees widget and a new contact widget)"
+msgstr "Extra widgety (časová os, najnovšie správy v karuseli, cenové tabuľky, nový widget pre zamestnancov a nový kontaktný widget)"
+
+#: inc/onboarding/theme-info.php:202
+msgid "Footer Credits option"
+msgstr "Možnosti päty"
+
+#: inc/onboarding/theme-info.php:197
+msgid "Background image support"
+msgstr "Podpora obrázka pozadia"
+
+#: inc/onboarding/theme-info.php:192
+msgid "Widgetized footer"
+msgstr "Päta s miniaplikáciou"
+
+#: inc/onboarding/theme-info.php:107 inc/onboarding/theme-info.php:182
+msgid "Color options"
+msgstr "Možnosti farieb"
+
+#: inc/onboarding/theme-info.php:177
+msgid "Polylang integration"
+msgstr "Polylangová integrácia"
+
+#: inc/onboarding/theme-info.php:172
+msgid "Translation ready"
+msgstr "Pripravené na preklad"
+
+#: inc/onboarding/theme-info.php:167
+msgid "Front Page Blocks"
+msgstr "Bloky prednej stránky"
+
+#: inc/onboarding/theme-info.php:162
+msgid "Slider, image or video header"
+msgstr "Slider, hlavička obrázka alebo videa"
+
+#: inc/onboarding/theme-info.php:157
+msgid "Social Icons"
+msgstr "Sociálne ikony"
+
+#: inc/onboarding/theme-info.php:152
+msgid "Parallax backgrounds"
+msgstr "Pozadia parallax"
+
+#: inc/onboarding/theme-info.php:142
+msgid "Access to all Google Fonts"
+msgstr "Prístup ku všetkým písmam Google"
+
+#: inc/onboarding/theme-info.php:137
+msgid "Sydney Pro"
+msgstr "Sydney Pro"
+
+#: inc/onboarding/theme-info.php:135
+msgid "Feature"
+msgstr "Vlastnosť"
+
+#: inc/onboarding/theme-info.php:127
+msgid "See the Documentation"
+msgstr "Pozri dokumentáciu"
+
+#: inc/onboarding/theme-info.php:126
+msgid "Our documentation can help you learn how to use the theme and also provides you with premade code snippets and answers to FAQs."
+msgstr "Naša dokumentácia vám môže pomôcť naučiť sa používať tému a tiež vám poskytne útržky kódu a odpovede na najčastejšie otázky."
+
+#: inc/onboarding/theme-info.php:121
+msgid "Visit the forums"
+msgstr "Navštívte fóra"
+
+#: inc/onboarding/theme-info.php:120
+msgid "Need help? Go ahead and visit our support forums and we'll be happy to assist you with any theme related questions you might have"
+msgstr "Potrebujete pomoc? Pokračujte a navštívte naše podporné fóra a my vám radi pomôžeme s prípadnými otázkami týkajúcimi sa témy"
+
+#: inc/onboarding/theme-info.php:119
+msgid "Visit our forums"
+msgstr "Navštívte naše fóra"
+
+#: inc/onboarding/theme-info.php:95
+msgid "Go to the automatic importer"
+msgstr "Prejdite na automatický import"
+
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:88
+msgid "Install and activate"
+msgstr "Inštalovať a aktivovať"
+
+#: inc/onboarding/theme-info.php:40
+msgid "Free vs Pro"
+msgstr "Free vs Pro"
+
+#: inc/onboarding/theme-info.php:38
+msgid "Getting started"
+msgstr "Začíname"
+
+#: inc/onboarding/theme-info.php:30
+msgid "Hello, %s,"
+msgstr "Ahoj, %s,"
+
+#: functions.php:517
+msgid "Get started with Sydney"
+msgstr "Začnite so Sydney"
+
+#: functions.php:516
+msgid "Welcome to Sydney. To get started please make sure to visit our <a href=\"%s\">welcome page</a>."
+msgstr "Vitajte v Sydney. Ak chcete začať, nezabudnite navštíviť našu <a href=\"%s\">uvítaciu stránku</a>."
+
+#: inc/onboarding/theme-info.php:147 inc/customizer.php:211
+#: inc/customizer.php:1949
+msgid "Responsive"
+msgstr "Responzívny"
+
+#: inc/customizer.php:210 inc/customizer.php:1948
+msgid "Full screen"
+msgstr "Celá obrazovka"
+
+#: inc/customizer.php:206
+msgid "Slider mobile behavior"
+msgstr "Správanie slidera v mobile"
+
+#: widgets/video-widget.php:32
+msgid "Text before the play button (only for lightbox mode):"
+msgstr "Text pred tlačidlom prehrávania (iba pre režim lightbox):"
+
+#: widgets/video-widget.php:29
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: widgets/video-widget.php:28
+msgid "Normal"
+msgstr "Normálny"
+
+#: widgets/video-widget.php:26
+msgid "Video mode:"
+msgstr "Režim videa"
+
+#: inc/customizer.php:1656
+msgid "Mobile menu button"
+msgstr "Tlačidlo menu v mobile"
+
+#: inc/customizer.php:1597
+msgid "Menu items hover"
+msgstr "Položky menu hover"
+
+#: inc/customizer.php:156 inc/customizer.php:179 inc/customizer.php:1877
+msgid "Video"
+msgstr "Video"
+
+#: inc/page-builder.php:65
+msgid "Add a value in the field to change the top/bottom row padding, otherwise 100px will be applied by default"
+msgstr "Pridajte hodnotu v poli pre zmenu výplne horného/spodného riadku, inak bude použitý štandard 100px."
+
+#: widgets/fp-services-type-b.php:54 widgets/fp-services-type-a.php:46
+msgid "Excerpt"
+msgstr "Zhrnutie"
+
+#: widgets/fp-services-type-b.php:53 widgets/fp-services-type-a.php:45
+msgid "Full content"
+msgstr "Celý obsah"
+
+#: widgets/fp-services-type-b.php:51 widgets/fp-services-type-a.php:43
+msgid "Content to display:"
+msgstr "Obsah na zobrazenie:"
+
+#: inc/upsell/class-customize.php:77
+msgid "Get Sydney Pro"
+msgstr "Získať Sydney Pro"
+
+#: inc/upsell/class-customize.php:76
+msgid "Ready for more?"
+msgstr "Ste pripravený na viac?"
+
+#: inc/page-builder.php:198
+msgid "This applies to all headings in the widget, except the widget title"
+msgstr "To platí pre všetky položky widgetov, okrem názvu widgetu"
+
+#: inc/page-builder.php:194
+msgid "Headings color"
+msgstr "Farba hlavičky"
+
+#: inc/page-builder.php:187
+msgid "Widget title color"
+msgstr "Farba nadpisu widgetu"
+
+#: inc/page-builder.php:183
+msgid "This setting depends on the content, it may or may not work"
+msgstr "Toto nastavenie je závislé od obsahu, ktoré môže ale aj nemusí fungovať"
+
+#: inc/page-builder.php:180
+msgid "Right"
+msgstr "Vpravo"
+
+#: inc/page-builder.php:179
+msgid "Center"
+msgstr "Stred"
+
+#: inc/page-builder.php:178
+msgid "Left"
+msgstr "Vľavo"
+
+#: inc/page-builder.php:174
+msgid "Content alignment"
+msgstr "Zarovnanie obsahu"
+
+#: inc/page-builder.php:113
+msgid "Overlay color"
+msgstr "Farba prekrytia"
+
+#: inc/page-builder.php:107
+msgid "Disable row overlay?"
+msgstr "Zakázať prekrytie riadku?"
+
+#: inc/customizer.php:1837
+msgid "[DEPRECATED] Please use the color option from Edit Row > Design > Overlay color"
+msgstr "[Upozornenie] Prosím, použite voľbu farieb z Upraviť riadok> Design> farebné prekrytie"
+
+#: inc/customizer.php:1463
+msgid "Header"
+msgstr "Hlavička"
+
+#: inc/customizer.php:1458
+msgid "Colors"
+msgstr "Farby"
+
+#: widgets/fp-portfolio.php:163
+msgid "Show project title?"
+msgstr "Zobraziť názov projektu?"
+
+#: widgets/fp-portfolio.php:160
+msgid "\"Show all\" text:"
+msgstr "Text \"Zobraziť všetko\":"
+
+#: widgets/fp-portfolio.php:159
+msgid "Show navigation filter? (Category slugs must be specified)."
+msgstr "Zobraziť navigačný filter? (Je potrebné špecifikovať slučky kategórie)."
+
+#: widgets/fp-portfolio.php:156
+msgid "Enter the slugs (comma separated) for your categories or leave empty to show all projects."
+msgstr "Zadajte slugy (oddelené čiarkou) pre kategórie alebo nechajte prázdne pre zobrazenie všetkých projektov."
+
+#: widgets/fp-portfolio.php:154
+msgid "Number of projects to show (-1 shows all of them):"
+msgstr "Počet projektov na zobrazenie (-1 zobrazí všetky):"
+
+#: widgets/fp-portfolio.php:35 widgets/fp-portfolio.php:148
+msgid "Show all"
+msgstr "Zobraziť všetko"
+
+#: widgets/fp-portfolio.php:13
+msgid "Sydney FP: Portfolio"
+msgstr "Sydney FP: Portfólio"
+
+#: widgets/fp-portfolio.php:12
+msgid "Display your projects in a grid."
+msgstr "Zobrazí Vaše projekty v mriežke"
+
+#: inc/customizer.php:108
+msgid "Page wrapper - bottom padding"
+msgstr "Page wrapper - bottom padding"
+
+#: widgets/fp-clients.php:35
+msgid "Open clients links in a new tab?"
+msgstr "Otvoriť odkazy klientov na novej karte?"
+
+#: inc/customizer.php:111
+msgid "Bottom padding for the page wrapper (the space between the page content and the footer)"
+msgstr "Bottom padding pre page wrapper (medzera medzi obsahom stránky a pätou)"
+
+#: inc/customizer.php:101
+msgid "100"
+msgstr "100"
+
+#: inc/customizer.php:88
+msgid "Top padding for the page wrapper (the space between the header and the page title)"
+msgstr "Top padding pre page wrapper (medzera medzi hlavičkou a nadpisom stránky)"
+
+#: inc/customizer.php:85
+msgid "Page wrapper - top padding"
+msgstr "Page wrapper - top padding"
+
+#: inc/customizer.php:78
+msgid "83"
+msgstr "83"
+
+#: inc/onboarding/theme-info.php:39
+msgid "Support"
+msgstr "Podpora"
+
+#: widgets/fp-testimonials.php:33
+msgid "Autoplay time [ms]"
+msgstr "Prehrať automaticky [ms]"
+
+#: inc/onboarding/theme-info.php:21
+msgid "Sydney Info"
+msgstr "Informácie o Sydney"
+
+#: inc/onboarding/theme-info.php:125
+msgid "Documentation"
+msgstr "Dokumentácia (ENG)"
+
+#: plugins/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Neboli vybrané žiadne pluginy na aktiváciu. Nebola vykonaná žiadna akcia."
+
+#: plugins/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Neboli vybrané žiadne pluginy na aktualizáciu. Nebola vykonaná žiadna akcia."
+
+#: plugins/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Nie sú dostupné žiadne aktualizácie pre pluginy."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualizuje sa modul %1$s (%2$d/%3$d)"
+
+#: plugins/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Neboli vybrané žiadne pluginy na inštaláciu. Nebola vykonaná žiadna akcia."
+
+#: plugins/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Správa o aktualizácií od autora pluginu: "
+
+#: plugins/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Aktualizovať"
+
+#: plugins/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "neznáma"
+
+#: plugins/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Minimálna požadovaná verzia:"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Na aktiváciu <span class=\"count\">(%s)</span>"
+msgstr[1] "Na aktiváciu <span class=\"count\">(%s)</span>"
+msgstr[2] "Na aktiváciu <span class=\"count\">(%s)</span>"
+
+#: plugins/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Nainštalovaná verzia:"
+
+#: plugins/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Dostupná verzia:"
+
+#: plugins/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Verzia"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Na inštaláciu <span class=\"count\">(%s)</span>"
+msgstr[1] "Na inštaláciu <span class=\"count\">(%s)</span>"
+msgstr[2] "Na inštaláciu <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktualizácia k dispozícii <span class=\"count\">(%s)</span>"
+msgstr[1] "Aktualizácie k dispozícii <span class=\"count\">(%s)</span>"
+msgstr[2] "Aktualizácií k dispozícii <span class=\"count\">(%s)</span>"
+
+#: plugins/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Požadovaná aktualizácia nieje dostupná"
+
+#: plugins/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Odporúčaná aktualizácia"
+
+#: plugins/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Požadovaná aktualizácia"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Všetky <span class=\"count\">(%s)</span>"
+msgstr[1] "Všetky <span class=\"count\">(%s)</span>"
+msgstr[2] "Všetky <span class=\"count\">(%s)</span>"
+
+#: plugins/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Vzdialený balík pluginu neobsahuje zložku s požadovaným slug-om, a premenovanie nefunguje."
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Je dostupná aktualizácia pre: %1$s."
+msgstr[1] "Sú dostupné aktualizácie pre nasledovné pluginy: %1$s."
+msgstr[2] "Sú dostupné aktualizácie pre nasledovné pluginy: %1$s."
+
+#: plugins/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Spustiť aktualizáciu pluginu"
+msgstr[1] "Spustiť aktualizácie pluginov"
+msgstr[2] "Spustiť aktualizácie pluginov"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nieje potrebná žiadna akcia. Plugin %1$s už je aktivovaný."
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin nieje aktivovaný. Pre túto tému je potrebná vyššia verzia ako %s. Prosím aktualizujte plugin."
+
+#: plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Pre pomoc kontaktujte administrátora stránky."
+
+#: plugins/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Tento plugin musí byť aktualizovaný pre plnú kompatibilitu s témou."
+
+#: plugins/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Požadovaná aktualizácia"
+
+#: plugins/class-tgm-plugin-activation.php:934
+#: plugins/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Obráťte sa na poskytovateľa doplnku a požiadajte ho, aby zabalil svoj doplnok podľa pokynov WordPress."
+
+#: plugins/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Balík vzdialeného doplnku obsahuje viac ako jeden súbor, ale súbory nie sú zabalené v priečinku."
+
+#: plugins/class-tgm-plugin-activation.php:1121
+#: plugins/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "a "
+
+#: plugins/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Aktívny"
+
+#: plugins/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Externý zdroj"
+
+#: plugins/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Niečo je zle s API pluginu."
+
+#. Template Name of the theme
+msgid "Full width"
+msgstr "Plná šírka"
+
+#. Template Name of the theme
+msgid "Front Page"
+msgstr "Úvodná stránka"
+
+#: widgets/video-widget.php:24
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "Vložte adresu URL videa (len zo siete, ktorá podporuje formát oEmbed, ako YouTube, Vimeo atď):"
+
+#: widgets/video-widget.php:7
+msgid "Sydney: Video"
+msgstr "Sydney: Video"
+
+#: widgets/video-widget.php:6
+msgid "Display a video from Youtube, Vimeo etc."
+msgstr "Zobraziť video z Youtube, Vimeo a pod."
+
+#: widgets/fp-testimonials.php:108
+msgid "See all our testimonials"
+msgstr "Pozrite sa na všetky naše referencie"
+
+#: widgets/fp-testimonials.php:31
+msgid "Enter the slug for your category or leave empty to show all testimonials."
+msgstr "Zadajte slug pre svoju kategóriu alebo nechajte prázdne, aby sa zobrazili všetky posudky."
+
+#: widgets/fp-testimonials.php:29
+msgid "The text for the button [Defaults to <em>See all our testimonials</em> if left empty]"
+msgstr "Text tlačidla [Predvolené <em>Zobraziť všetky naše posudky</em>, ak zostane prázdny]"
+
+#: widgets/fp-testimonials.php:27
+msgid "The URL for your button [In case you want a button below your testimonials block]"
+msgstr "URL pre vaše tlačidlo [V prípade, že chcete pod tlačidlom vašich posudkov tlačidlo]"
+
+#: widgets/fp-testimonials.php:25
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr "Počet posudkov (-1 zobrazuje všetky):"
+
+#: widgets/fp-testimonials.php:20
+msgid "In order to display this widget, you must first add some testimonials from your admin area."
+msgstr "Ak chcete zobraziť tento widget, musíte najprv pridať niektoré posudky zo svojej oblasti správy."
+
+#: widgets/fp-testimonials.php:7
+msgid "Sydney FP: Testimonials"
+msgstr "Sydney FP: Referencie"
+
+#: widgets/fp-testimonials.php:6
+msgid "Display your testimonials in a slider."
+msgstr "Zobraziť Vaše referencie v slajdri."
+
+#: widgets/fp-social.php:64
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Výber &mdash; "
+
+#: widgets/fp-social.php:62
+msgid "Select your social menu:"
+msgstr "Vyberte menu sociálnych sietí:"
+
+#: widgets/fp-social.php:60
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+msgstr "Ak chcete zobraziť miniaplikáciu sociálnych ikon v miniaplikácii, stačí prejsť do časti <strong> Vzhľad> Ponuky </strong> a vytvoriť ponuku obsahujúcu odkazy na vaše sociálne profily. Tu túto ponuku priraďte. Podporované siete: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+
+#: widgets/fp-social.php:52
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Doteraz nebolo vytvorené žiadne menu. <a href=\"%s\">Vytvoriť nové</a>."
+
+#: widgets/fp-social.php:6
+msgid "Sydney FP: Social Profile"
+msgstr "Sydney FP: Profil na sociálnych sieťach"
+
+#: widgets/fp-social.php:5
+msgid "Display your social profile on your front page"
+msgstr "Zobraziť váš profil zo sociálnych sietí na úvodnej stránke"
+
+#: widgets/fp-skills.php:68
+msgid "Fourth skill value"
+msgstr "Hodnota štvrtej skúsenosti"
+
+#: widgets/fp-skills.php:63
+msgid "Fourth skill name"
+msgstr "Názov štvrtej skúsenosti"
+
+#: widgets/fp-skills.php:57
+msgid "Third skill value"
+msgstr "Hodnota tretej skúsenosti"
+
+#: widgets/fp-skills.php:52
+msgid "Third skill name"
+msgstr "Názov tretej skúsenosti"
+
+#: widgets/fp-skills.php:46
+msgid "Second skill value"
+msgstr "Hodnota druhej skúsenosti"
+
+#: widgets/fp-skills.php:41
+msgid "Second skill name"
+msgstr "Názov druhej skúsenosti"
+
+#: widgets/fp-skills.php:35
+msgid "First skill value"
+msgstr "Hodnota prvej skúsenosti"
+
+#: widgets/fp-skills.php:30
+msgid "First skill name"
+msgstr "Názov prvej skúsenosti"
+
+#: widgets/fp-skills.php:7
+msgid "Sydney FP: Skills"
+msgstr "Sydney FP: Skúsenosti"
+
+#: widgets/fp-skills.php:6
+msgid "Show your visitors some of your skills."
+msgstr "Ukážte svojim návštevníkom niektoré zo svojich skúseností."
+
+#: widgets/fp-services-type-b.php:41
+msgid "Number of columns:"
+msgstr "Počet zobrazených stĺpcov:"
+
+#: widgets/fp-services-type-b.php:12
+msgid "Sydney FP: Services type B"
+msgstr "Sydney FP: Servis typ B"
+
+#: widgets/fp-services-type-b.php:160 widgets/fp-services-type-a.php:145
+msgid "See all our services"
+msgstr "Zobraziť všetky naše služby"
+
+#: widgets/fp-services-type-a.php:42
+msgid "Display services in two columns instead of three?"
+msgstr "Zobraziť služby v dvoch stĺpcoch namiesto troch?"
+
+#: widgets/fp-services-type-b.php:38 widgets/fp-services-type-a.php:39
+msgid "Enter the slug for your category or leave empty to show all services."
+msgstr "Zadajte slimáka pre svoju kategóriu alebo nechajte prázdne, aby sa zobrazili všetky služby."
+
+#: widgets/fp-services-type-b.php:36 widgets/fp-services-type-a.php:37
+msgid "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+msgstr "Text tlačidla [Predvolené je <em>Zobraziť všetky naše služby</em>, ak zostane prázdny]"
+
+#: widgets/fp-services-type-b.php:34 widgets/fp-services-type-a.php:35
+msgid "The URL for your button [In case you want a button below your services block]"
+msgstr "URL tlačidla [V prípade, že chcete tlačidlo pod blokom služieb]"
+
+#: widgets/fp-services-type-b.php:32 widgets/fp-services-type-a.php:33
+msgid "Number of services to show (-1 shows all of them):"
+msgstr "Počet zobrazovaných služieb (-1 zobrazuje všetky):"
+
+#: widgets/fp-services-type-b.php:27 widgets/fp-services-type-a.php:28
+msgid "In order to display this widget, you must first add some services from your admin area."
+msgstr "Ak chcete zobraziť tento widget, musíte najprv pridať niektoré služby z oblasti správcu."
+
+#: widgets/fp-services-type-a.php:12
+msgid "Sydney FP: Services Type A"
+msgstr "Sydney FP: Služby typu A"
+
+#: widgets/fp-services-type-b.php:11 widgets/fp-services-type-a.php:11
+msgid "Show what services you are able to provide."
+msgstr "Ukážte, aké služby ste schopní poskytnúť."
+
+#: widgets/fp-list.php:75
+msgid "Call to action button text:"
+msgstr "Text tlačidla výzvy na akciu:"
+
+#: widgets/fp-list.php:72
+msgid "Call to action button URL:"
+msgstr "URL tlačidla výzvy na akciu:"
+
+#: widgets/fp-list.php:69
+msgid "Add your list items here. One item per row, start each row with <strong>^</strong>. Example: <strong>^ list item </strong>"
+msgstr "Sem pridajte svoje položky zoznamu. Jedna položka na riadok, začnite každý riadok znakom <strong> ^ </strong>. Príklad: <strong> ^ položka zoznamu </strong>"
+
+#: widgets/fp-list.php:66
+msgid "Add a bit of text here. It will be displayed."
+msgstr "Sem pridajte trochu textu. Zobrazí sa."
+
+#: widgets/fp-portfolio.php:152 widgets/fp-social.php:57 widgets/fp-list.php:63
+msgid "Title:"
+msgstr "Nadpis:"
+
+#: widgets/fp-list.php:13
+msgid "Sydney FP: List"
+msgstr "Sydney FP: Zoznam"
+
+#: widgets/fp-list.php:11
+msgid "A simple list widget"
+msgstr "Jednoduchý widget zoznamu"
+
+#: widgets/fp-latest-news.php:51 widgets/fp-latest-news.php:53
+msgid "See all our news"
+msgstr "Pozrite si všetky naše novinky"
+
+#: widgets/fp-latest-news.php:26
+msgid "Add the text for the button here if you want to change the default <em>See all our news</em>"
+msgstr "Sem zadajte text tlačidla, ak chcete zmeniť predvolené <em>Zobraziť všetky naše novinky</em>"
+
+#: widgets/fp-latest-news.php:23
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "Zadajte slug pre svoju kategóriu alebo ponechajte prázdne, aby sa zobrazovali príspevky zo všetkých kategórií."
+
+#: widgets/fp-latest-news.php:7
+msgid "Sydney FP: Latest News"
+msgstr "Sydney FP: Najnovšie správy"
+
+#: widgets/fp-latest-news.php:6
+msgid "Show the latest news from your blog."
+msgstr "Zobrazí najnovšie správy z Vášho blogu."
+
+#: widgets/fp-facts.php:96
+msgid "Fourth fact icon"
+msgstr "Ikona štvrtého faktu"
+
+#: widgets/fp-facts.php:91
+msgid "Fourth fact value"
+msgstr "Hodnota štvrtého faktu"
+
+#: widgets/fp-facts.php:86
+msgid "Fourth fact name"
+msgstr "Názov štvrtého faktu"
+
+#: widgets/fp-facts.php:80
+msgid "Third fact icon"
+msgstr "Ikona tretieho faktu"
+
+#: widgets/fp-facts.php:75
+msgid "Third fact value"
+msgstr "Hodnota tretieho faktu"
+
+#: widgets/fp-facts.php:70
+msgid "Third fact name"
+msgstr "Názov tretieho faktu"
+
+#: widgets/fp-facts.php:64
+msgid "Second fact icon"
+msgstr "Ikona druhého faktu"
+
+#: widgets/fp-facts.php:59
+msgid "Second fact value"
+msgstr "Hodnota druhého faktu"
+
+#: widgets/fp-facts.php:54
+msgid "Second fact name"
+msgstr "Názov druhého faktu"
+
+#: widgets/fp-facts.php:48
+msgid "First fact icon"
+msgstr "Ikona prvého faktu"
+
+#: widgets/fp-facts.php:43
+msgid "First fact value"
+msgstr "Hodnota prvého faktu"
+
+#: widgets/fp-facts.php:38
+msgid "First fact name"
+msgstr "Názov prvého faktu"
+
+#: widgets/fp-facts.php:30
+msgid "Usage example: <strong>fa-android</strong>"
+msgstr "Použite napríklad: <strong>fa-android</strong>"
+
+#: widgets/fp-facts.php:30
+msgid "here."
+msgstr "v tomto linku."
+
+#: widgets/fp-facts.php:30
+msgid "You can find a list of the available icons "
+msgstr "Úplný zoznam ikon je dostupný "
+
+#: widgets/fp-facts.php:8
+msgid "Sydney FP: Facts"
+msgstr "Sydney FP: Fakty"
+
+#: widgets/fp-facts.php:7
+msgid "Show your visitors some facts about your company."
+msgstr "Ukážte svojim návštevníkom niektoré fakty o vašej spoločnosti."
+
+#: widgets/fp-employees.php:140
+msgid "See all our employees"
+msgstr "Pozrite sa na všetkých našich zamestnancov"
+
+#: widgets/fp-employees.php:35
+msgid "Center the employees? (use only if you have 1 or 2 employees)"
+msgstr "Zamerať sa na zamestnancov? (použite iba v prípade, že máte 1 alebo 2 zamestnancov)"
+
+#: widgets/fp-employees.php:32
+msgid "Enter the slug for your category or leave empty to show all employees."
+msgstr "Zadajte slug pre svoju kategóriu alebo ponechajte prázdne, aby sa zobrazili všetci zamestnanci."
+
+#: widgets/fp-employees.php:30
+msgid "The text for the button [Defaults to <em>See all our employees</em> if left empty]"
+msgstr "Text tlačidla [Predvolené na <em>Zobraziť všetkých našich zamestnancov</em>, ak zostane prázdny]"
+
+#: widgets/fp-employees.php:28
+msgid "Enter an URL here if you want to section to link somewhere."
+msgstr "Sem zadajte webovú adresu, ak chcete časť niekde prepojiť."
+
+#: widgets/fp-employees.php:26
+msgid "Number of employees to show (-1 shows all of them):"
+msgstr "Počet zamestnancov, ktorí sa majú zobraziť (-1 všetkých zamestnancov):"
+
+#: widgets/fp-employees.php:21
+msgid "In order to display this widget, you must first add some employees from the dashboard. Add as many as you want and the theme will automatically display them all."
+msgstr "Ak chcete zobraziť tento widget, musíte najskôr pridať niektorých zamestnancov z hlavného panela. Pridajte ľubovoľný počet a téma ich automaticky zobrazí všetky."
+
+#: widgets/fp-employees.php:7
+msgid "Sydney FP: Employees"
+msgstr "Sydney FP: Zamestnanci"
+
+#: widgets/fp-employees.php:6
+msgid "Display your team members in a stylish way."
+msgstr "Štýlové zobrazenie členov tímu."
+
+#: widgets/fp-clients.php:111
+msgid "See all our clients"
+msgstr "Zobraziť všetkých našich klientov"
+
+#: widgets/fp-clients.php:32
+msgid "Enter the slug for your category or leave empty to show all clients."
+msgstr "Zadajte slimáka pre svoju kategóriu alebo nechajte prázdne, aby ste zobrazili všetkých klientov."
+
+#: widgets/fp-clients.php:30
+msgid "The text for the button [Defaults to <em>See all our clients</em> if left empty]"
+msgstr "Text tlačidla [Predvolené na <em>Zobraziť všetkých našich klientov</em>, ak zostane prázdny]"
+
+#: widgets/fp-clients.php:28
+msgid "The URL for your button [In case you want a button below your clients block]"
+msgstr "Adresa URL tlačidla [V prípade, že chcete tlačidlo pod blokom klientov]"
+
+#: widgets/fp-clients.php:26
+msgid "Number of clients to show (-1 shows all of them):"
+msgstr "Počet klientov na zobrazenie (-1 ukazuje všetkých):"
+
+#: widgets/fp-clients.php:21
+msgid "In order to display this widget, you must first add some clients from your admin area. Set your client logos as featured images."
+msgstr "Ak chcete zobraziť tento widget, musíte najskôr pridať niektorých klientov zo svojej oblasti správy. Nastavte logá svojich klientov ako odporúčané obrázky."
+
+#: widgets/fp-clients.php:7
+msgid "Sydney FP: Clients"
+msgstr "Sydney FP: Klienti"
+
+#: widgets/fp-clients.php:6
+msgid "Display your clients list."
+msgstr "Zobrazte zoznam svojich klientov."
+
+#: widgets/fp-call-to-action.php:27
+msgid "Display the button inline with the text?"
+msgstr "Zobraziť tlačidlo v rade s textom?"
+
+#: widgets/fp-call-to-action.php:24
+msgid "Title for the button"
+msgstr "Názov pre tlačidlo"
+
+#: widgets/fp-call-to-action.php:22
+msgid "Link for the button"
+msgstr "Odkaz pre tlačidlo"
+
+#: widgets/fp-call-to-action.php:20
+msgid "Enter your call to action."
+msgstr "Zadajte svoju výzvu na akciu."
+
+#: widgets/fp-call-to-action.php:7
+msgid "Sydney FP: Call to action"
+msgstr "Sydney FP: Výzva na akciu"
+
+#: widgets/fp-call-to-action.php:6
+msgid "Display a call to action block."
+msgstr "Zobraziť blok výzvy na akciu."
+
+#: widgets/contact-info.php:30
+msgid "Enter your email address"
+msgstr "Zadajte vašu e-mailovú adresu"
+
+#: widgets/contact-info.php:27
+msgid "Enter your phone number"
+msgstr "Zadajte vaše telefónne číslo"
+
+#: widgets/contact-info.php:24
+msgid "Enter your address"
+msgstr "Zadajte vašu adresu"
+
+#: widgets/fp-services-type-b.php:29 widgets/video-widget.php:20
+#: widgets/contact-info.php:20 widgets/fp-skills.php:24
+#: widgets/fp-services-type-a.php:30 widgets/fp-clients.php:23
+#: widgets/fp-latest-news.php:19 widgets/fp-call-to-action.php:18
+#: widgets/fp-facts.php:32 widgets/fp-employees.php:23
+#: widgets/fp-testimonials.php:22
+msgid "Title"
+msgstr "Nadpis"
+
+#: widgets/contact-info.php:7
+msgid "Sydney: Contact info"
+msgstr "Sydney: Kontaktné informácie"
+
+#: widgets/contact-info.php:6
+msgid "Display your contact info"
+msgstr "Zobrazte svoje kontaktné informácie"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhľadávania pre: %s"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Inštalácia pluginu %1$s (%2$d/%3$d)"
+
+#: plugins/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Všetky inštalácie boli dokončené."
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s bol úspešne nainštalovaný."
+
+#: plugins/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proces inštalácie bol zahájený. Tento proces môže chvíľu trvať na niektorých počítačoch, takže buďte prosím trpezliví."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Inštalácia a aktivácia pluginu %1$s (%2$d/%3$d)"
+
+#: plugins/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Všetky inštalácie a aktivácie boli dokončené."
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3509
+#: plugins/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Skryť podrobnosti"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3509
+#: plugins/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Zobraziť podrobnosti"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "Plugin %1$s bol úspešne nainštalovaný."
+
+#: plugins/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proces inštalácie a aktivácie bol zahájený. Tento proces môže chvíľu trvať na niektorých počítačoch, takže buďte prosím trpezliví."
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Inštalácia %1$s zlyhala."
+
+#. translators: 1: plugin name, 2: error message.
+#: plugins/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Došlo k chybe pri inštalácii %1$s: <strong>%2$s</strong>."
+
+#: plugins/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Aktivácia pluginu sa nepodarila."
+
+#: plugins/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Momentálne nie sú k dispozícii žiadne doplnky na aktiváciu."
+
+#: plugins/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Momentálne nie sú k dispozícii žiadne doplnky na inštaláciu."
+
+#: plugins/class-tgm-plugin-activation.php:2726
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:92
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:112
+msgid "Activate"
+msgstr "Aktivovať"
+
+#: plugins/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Nainštalovať"
+
+#: plugins/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Stav"
+
+#: plugins/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Typ"
+
+#: plugins/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Zdroj"
+
+#: plugins/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: plugins/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Nainštalovaný, ale nie je aktivovaný"
+
+#: plugins/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Nie je nainštalovaný"
+
+#: plugins/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Odporúčaný"
+
+#: plugins/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Požadovaný"
+
+#: plugins/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress adresár"
+
+#: plugins/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Predpripravené"
+
+#: plugins/class-tgm-plugin-activation.php:386
+#: plugins/class-tgm-plugin-activation.php:827
+#: plugins/class-tgm-plugin-activation.php:2533
+#: plugins/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Späť na nástenku"
+
+#: plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Skryť toto upozornenie"
+
+#. translators: 1: dashboard link.
+#: plugins/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Všetky pluginy boli úspešne nainštalované a aktivované. %1$s"
+
+#: plugins/class-tgm-plugin-activation.php:388
+#: plugins/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Nasledujúci plugin bol úspešne aktivovaný:"
+msgstr[1] ""
+msgstr[2] ""
+
+#: plugins/class-tgm-plugin-activation.php:387
+#: plugins/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin bol úspešne aktivovaný."
+
+#: plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Späť na Inštaláciu požadovaných pluginov"
+
+#: plugins/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Začať aktivovať doplnok"
+msgstr[1] "Začať aktivovať doplnky"
+msgstr[2] "Začať aktivovať doplnky"
+
+#: plugins/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Začať inštalovať doplnok"
+msgstr[1] "Začať inštalovať doplnky"
+msgstr[2] "Začať inštalovať doplnky"
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Nasledujúci doplnok je potrebné aktualizovať na najnovšiu verziu, aby sa zabezpečila maximálna kompatibilita s touto témou: %1$s."
+msgstr[1] "Nasledujúce doplnky musia byť aktualizované na najnovšiu verziu, aby bola zaistená maximálna kompatibilita s touto témou: %1$s."
+msgstr[2] "Nasledujúce doplnky musia byť aktualizované na najnovšiu verziu, aby bola zaistená maximálna kompatibilita s touto témou: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Nasledujúci odporúčaný doplnok je momentálne neaktívny: %1$s."
+msgstr[1] "Nasledujúce odporúčané doplnky sú momentálne neaktívne: %1$s."
+msgstr[2] "Nasledujúce odporúčané doplnky sú momentálne neaktívne: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Nasledujúci požadovaný doplnok je momentálne neaktívny: %1$s."
+msgstr[1] "Nasledujúce požadované doplnky sú momentálne neaktívne: %1$s."
+msgstr[2] "Nasledujúce požadované doplnky sú momentálne neaktívne: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Táto téma odporúča nasledujúci doplnok: %1$s."
+msgstr[1] "Táto téma odporúča nasledujúce doplnky: %1$s."
+msgstr[2] "Táto téma odporúča nasledujúce doplnky: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Táto téma vyžaduje nasledujúci doplnok: %1$s."
+msgstr[1] "Táto téma vyžaduje nasledujúce doplnky: %1$s."
+msgstr[2] "Táto téma vyžaduje nasledujúce doplnky: %1$s."
+
+#. translators: %s: plugin name.
+#: plugins/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Inštalácia pluginu: %s"
+
+#: plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Nainštalovať pluginy"
+
+#: plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Inštalácia požadovaných pluginov"
+
+#: inc/template-tags.php:173
+msgid "Archives"
+msgstr "Archívy"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:171
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:167
+msgid "Archives: %s"
+msgstr "Archívy: %s"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Rozhovory"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Zvuk"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Stavy"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Odkazy"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citáty"
+
+#: inc/template-tags.php:154
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videá"
+
+#: inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Obrázky"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galérie"
+
+#: inc/template-tags.php:148
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:145
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j. F Y"
+
+#: inc/template-tags.php:145
+msgid "Day: %s"
+msgstr "Deň: %s"
+
+#: inc/template-tags.php:143
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:143
+msgid "Month: %s"
+msgstr "Mesiac: %s"
+
+#: inc/template-tags.php:141
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:141
+msgid "Year: %s"
+msgstr "Rok: %s"
+
+#: inc/template-tags.php:139
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:137
+msgid "Tag: %s"
+msgstr "Značka: %s"
+
+#: inc/template-tags.php:135
+msgid "Category: %s"
+msgstr "Kategória: %s"
+
+#: inc/template-tags.php:115
+msgid " %1$s"
+msgstr " %1$s"
+
+#: inc/template-tags.php:100
+msgid "Posted in %1$s"
+msgstr "Publikované v: %1$s"
+
+#: inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:94
+msgid "% Comments"
+msgstr "Komentáre (%)"
+
+#: inc/template-tags.php:94
+msgid "1 Comment"
+msgstr "Jeden komentár"
+
+#: inc/template-tags.php:94
+msgid "Leave a comment"
+msgstr "Vložiť komentár"
+
+#: inc/template-tags.php:86
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:277
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publikované %s"
+
+#: inc/template-tags.php:51
+msgid "Post navigation"
+msgstr "Navigácia článkami"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Novšie články"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Staršie články"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigácia príspevkov"
+
+#: inc/page-builder.php:101
+msgid "45px"
+msgstr "45px"
+
+#: inc/page-builder.php:100
+msgid "30px"
+msgstr "30px"
+
+#: inc/page-builder.php:99
+msgid "15px"
+msgstr "15px"
+
+#: inc/page-builder.php:98
+msgid "0"
+msgstr "0"
+
+#: inc/page-builder.php:97
+msgid "Default"
+msgstr "Predvolený"
+
+#: inc/page-builder.php:95
+msgid "Here you can select a top/bottom row padding for screen sizes < 1024px"
+msgstr "Tu môžete vybrať výplň horného/dolného riadku pre veľkosti obrazovky <1024px"
+
+#: inc/page-builder.php:93
+msgid "Mobile padding"
+msgstr "Padding v mobile"
+
+#: inc/page-builder.php:87
+msgid "Background image of the row."
+msgstr "Obrázok na pozadí riadku."
+
+#: inc/page-builder.php:85
+msgid "Background Image"
+msgstr "Obrázok pozadia"
+
+#: inc/page-builder.php:80
+msgid "Color of the row."
+msgstr "Farba riadku."
+
+#: inc/page-builder.php:78
+msgid "Color"
+msgstr "Farba"
+
+#: inc/page-builder.php:72
+msgid "This may or may not work. It depends on the widget styles."
+msgstr "Môže to alebo nemusí fungovať. Závisí to od štýlov miniaplikácie."
+
+#: inc/page-builder.php:70
+msgid "Center align the content?"
+msgstr "Zarovnať obsah na stred?"
+
+#: inc/page-builder.php:63
+msgid "Top/bottom padding"
+msgstr "Horný/dolný padding"
+
+#: inc/page-builder.php:57
+msgid "Bottom Border Color"
+msgstr "Farba spodného okraja"
+
+#: inc/page-builder.php:44
+msgid "Sydney Theme Widgets"
+msgstr "Sydney Téma Widgety"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Strana %s"
+
+#: inc/customizer.php:1878
+msgid "Nothing (only menu)"
+msgstr "Nič (iba ponuka)"
+
+#: inc/customizer.php:1850
+msgid "2. A full theme demo can be found "
+msgstr "2. Nájdené úplné ukážku témy"
+
+#: inc/customizer.php:1850
+msgid "1. Documentation for Sydney can be found "
+msgstr "1. Dokumentáciu pre Sydney nájdete"
+
+#: inc/customizer.php:1848
+msgid "Theme info"
+msgstr "Informácie o téme"
+
+#: inc/customizer.php:1835
+msgid "Rows overlay"
+msgstr "Prekrytie riadkov"
+
+#: inc/customizer.php:1816
+msgid "Footer color"
+msgstr "Farba pätičky"
+
+#: inc/customizer.php:1796
+msgid "Footer background"
+msgstr "Pozadie pätičky"
+
+#: inc/customizer.php:1776
+msgid "Footer widget area color"
+msgstr "Farba oblasti widgetu päty"
+
+#: inc/customizer.php:1756
+msgid "Footer widget area background"
+msgstr "Pozadie oblasti päty widgetu"
+
+#: inc/customizer.php:1736
+msgid "Sidebar color"
+msgstr "Farba bočného panela"
+
+#: inc/customizer.php:1716
+msgid "Sidebar background"
+msgstr "Pozarie bočného panela"
+
+#: inc/customizer.php:1696
+msgid "Body text"
+msgstr "Text tela stránky"
+
+#: inc/customizer.php:1676
+msgid "Header slider text"
+msgstr "Text slajdru v hlavičke"
+
+#: inc/customizer.php:1637
+msgid "Sub-menu background"
+msgstr "Pozadie podkategórie"
+
+#: inc/customizer.php:1618
+msgid "Sub-menu items"
+msgstr "Položky podkategórie"
+
+#: inc/customizer.php:1578
+msgid "Top level menu items"
+msgstr "Položky hlavného menu"
+
+#: inc/customizer.php:1517
+msgid "Menu background"
+msgstr "Pozadie menu"
+
+#: inc/customizer.php:1497
+msgid "Primary color"
+msgstr "Základná farba"
+
+#: inc/customizer.php:1427
+msgid "Body font size"
+msgstr "Veľkosť písma tela stránky"
+
+#: inc/customizer.php:1408
+msgid "H6 font size"
+msgstr "Veľkosť písma H6"
+
+#: inc/customizer.php:1389
+msgid "H5 font size"
+msgstr "Veľkosť písma H5"
+
+#: inc/customizer.php:1370
+msgid "H4 font size"
+msgstr "Veľkosť písma H4"
+
+#: inc/customizer.php:1351
+msgid "H3 font size"
+msgstr "Veľkosť písma H3"
+
+#: inc/customizer.php:1332
+msgid "H2 font size"
+msgstr "Veľkosť písma H2"
+
+#: inc/customizer.php:1313
+msgid "H1 font size"
+msgstr "Veľkosť písma H1"
+
+#: inc/customizer.php:1294
+msgid "Menu items"
+msgstr "Položky menu"
+
+#: inc/customizer.php:1275 inc/customizer.php:1558
+msgid "Site description"
+msgstr "Popis stránky"
+
+#: inc/customizer.php:1256 inc/customizer.php:1537
+msgid "Site title"
+msgstr "Názov stránky"
+
+#: inc/customizer.php:1238
+msgid "Font sizes"
+msgstr "Veľkosť písma"
+
+#: inc/customizer.php:1173
+msgid "Headings fonts"
+msgstr "Písmo hlavičky"
+
+#: inc/customizer.php:1125 inc/customizer.php:1191
+msgid "Font family"
+msgstr "Typ písma"
+
+#: inc/customizer.php:1105
+msgid "Body fonts"
+msgstr "Písmo tela stránky"
+
+#: inc/customizer.php:1043
+msgid "Fonts"
+msgstr "Písma"
+
+#: inc/customizer.php:1032 inc/customizer.php:1909
+msgid "Four"
+msgstr "Štyri"
+
+#: inc/customizer.php:1031 inc/customizer.php:1908
+msgid "Three"
+msgstr "Tri"
+
+#: inc/customizer.php:1030 inc/customizer.php:1907
+msgid "Two"
+msgstr "Dva"
+
+#: inc/customizer.php:1029 inc/customizer.php:1906
+msgid "One"
+msgstr "Jedna"
+
+#: inc/customizer.php:1027
+msgid "Select the number of widget areas you want in the footer. After that, go to Appearance > Widgets and add your widgets."
+msgstr "V päte vyberte počet oblastí miniaplikácií, ktoré chcete. Potom prejdite na Vzhľad> Widgety a pridajte svoje widgety."
+
+#: inc/customizer.php:1025
+msgid "Footer widget area"
+msgstr "Oblasť widgetu v pätičke"
+
+#: inc/customizer.php:1009 inc/customizer.php:1479
+msgid "Footer"
+msgstr "Pätička stránky"
+
+#: inc/customizer.php:996
+msgid "Check this box to hide featured images on single posts"
+msgstr "Toto políčko začiarknite, ak chcete skryť odporúčané obrázky na jednotlivých príspevkoch"
+
+#: inc/customizer.php:980
+msgid "Check this box to hide featured images on index, archives etc."
+msgstr "Toto políčko začiarknite, ak chcete skryť vybrané obrázky v indexe, archívoch atď."
+
+#: inc/customizer.php:963
+msgid "Featured images"
+msgstr "Ilustračné obrázky"
+
+#: inc/customizer.php:950
+msgid "Hide post meta on singles?"
+msgstr "Skryť príspevok meta na dvojhre?"
+
+#: inc/customizer.php:933
+msgid "Hide post meta on index, archives?"
+msgstr "Skryť príspevok meta v indexe, archívoch?"
+
+#: inc/customizer.php:915
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/customizer.php:900
+msgid "Choose your excerpt length. Default: 55 words"
+msgstr "Vyberte dĺžku výpisu. Predvolená hodnota: 55 slov"
+
+#: inc/customizer.php:899
+msgid "Excerpt length"
+msgstr "Výňatok dĺžky"
+
+#: inc/customizer.php:882
+msgid "Check this box to display the full content of your posts on all archives."
+msgstr "Začiarknutím tohto políčka zobrazíte celý obsah vašich príspevkov vo všetkých archívoch."
+
+#: inc/customizer.php:866
+msgid "Check this box to display the full content of your posts on the home page."
+msgstr "Začiarknutím tohto políčka zobrazíte celý obsah svojich príspevkov na domovskej stránke."
+
+#: inc/customizer.php:848
+msgid "Content/excerpt"
+msgstr "Obsah / výňatok"
+
+#: inc/customizer.php:835
+msgid "Full width single posts?"
+msgstr "Jednotlivé príspevky v celej šírke?"
+
+#: inc/customizer.php:820 inc/customizer.php:1936
+msgid "Masonry (grid style)"
+msgstr "Mansory (mriežkový štýl)"
+
+#: inc/customizer.php:819 inc/customizer.php:1935
+msgid "Full width (no sidebar)"
+msgstr "Plná šírka (bez bočného panelu)"
+
+#: inc/customizer.php:816 inc/customizer.php:1932
+msgid "Classic"
+msgstr "Klasický"
+
+#: inc/customizer.php:812
+msgid "Blog layout"
+msgstr "Rozloženie blogu"
+
+#: inc/customizer.php:795
+msgid "Layout"
+msgstr "Rozloženie"
+
+#: inc/onboarding/theme-info.php:109 inc/onboarding/theme-info.php:187
+#: inc/customizer.php:783
+msgid "Blog options"
+msgstr "Možnosti blogu"
+
+#: inc/customizer.php:771
+msgid "Upload your logo"
+msgstr "Nahrať vlastné logo"
+
+#: inc/customizer.php:753
+msgid "Disable the overlay?"
+msgstr "Zakázať prekrytie?"
+
+#: inc/customizer.php:735
+msgid "Header height [default: 300px]"
+msgstr "Výška hlavičky [predvolené: 300 pixelov]"
+
+#: inc/customizer.php:719 inc/customizer.php:1895
+msgid "Contain"
+msgstr "Obsahuje"
+
+#: inc/customizer.php:718 inc/customizer.php:1894
+msgid "Cover"
+msgstr "Prekryť"
+
+#: inc/customizer.php:715
+msgid "Header background size"
+msgstr "Veľkosť pozadia hlavičky"
+
+#: inc/customizer.php:698 inc/customizer.php:1961
+msgid "Centered (menu and site logo)"
+msgstr "Na stred (menu a logo stránky)"
+
+#: inc/customizer.php:697 inc/customizer.php:1960
+msgid "Inline"
+msgstr "V rade"
+
+#: inc/customizer.php:677 inc/customizer.php:1921
+msgid "Static"
+msgstr "Statický"
+
+#: inc/customizer.php:676 inc/customizer.php:1920
+msgid "Sticky"
+msgstr "Pripnuté"
+
+#: inc/customizer.php:673
+msgid "Sticky menu"
+msgstr "Pripnuté menu"
+
+#: inc/customizer.php:655 inc/customizer.php:694
+msgid "Menu style"
+msgstr "Štýl menu"
+
+#: inc/customizer.php:645
+msgid "Text for your call to action button"
+msgstr "Text pre tlačidlo s výzvou na akciu"
+
+#: inc/customizer.php:637
+msgid "Click to begin"
+msgstr "Kliknutím začnite"
+
+#: inc/customizer.php:628
+msgid "URL for your call to action button"
+msgstr "URL pre tlačidlo s výzvou na akciu"
+
+#: inc/customizer.php:611
+msgid "Call to action button"
+msgstr "Tlačidlo: Výzva k akcií"
+
+#: inc/customizer.php:597
+msgid "Subtitle for the fifth slide"
+msgstr "Podtitul piateho slajdu"
+
+#: inc/customizer.php:579
+msgid "Title for the fifth slide"
+msgstr "Nadpis piateho slajdu"
+
+#: inc/customizer.php:559
+msgid "Upload your fifth image for the slider"
+msgstr "Nahrajte piaty obrázok pre slider"
+
+#: inc/customizer.php:540
+msgid "Fifth slide"
+msgstr "Piaty slide"
+
+#: inc/customizer.php:526
+msgid "Subtitle for the fourth slide"
+msgstr "Podtitul štvrtého slajdu"
+
+#: inc/customizer.php:508
+msgid "Title for the fourth slide"
+msgstr "Nadpis štvrtého slajdu"
+
+#: inc/customizer.php:488
+msgid "Upload your fourth image for the slider"
+msgstr "Nahrajte štvrtý obrázok pre slider"
+
+#: inc/customizer.php:469
+msgid "Fourth slide"
+msgstr "Štvrtý slide"
+
+#: inc/customizer.php:455
+msgid "Subtitle for the third slide"
+msgstr "Podtitul tretieho slajdu"
+
+#: inc/customizer.php:437
+msgid "Title for the third slide"
+msgstr "Nadpis tretieho slajdu"
+
+#: inc/customizer.php:417
+msgid "Upload your third image for the slider"
+msgstr "Nahrajte tretí obrázok pre slider"
+
+#: inc/customizer.php:398
+msgid "Third slide"
+msgstr "Tretí slide"
+
+#: inc/customizer.php:384
+msgid "Subtitle for the second slide"
+msgstr "Podtitul druhého slajdu"
+
+#: inc/customizer.php:366
+msgid "Title for the second slide"
+msgstr "Nadpis pre druhý slide"
+
+#: inc/customizer.php:346
+msgid "Upload your second image for the slider"
+msgstr "Nahrajte svoj druhý obrázok pre slider"
+
+#: inc/customizer.php:327
+msgid "Second slide"
+msgstr "Druhý slide"
+
+#: inc/customizer.php:313
+msgid "Subtitle for the first slide"
+msgstr "Podtitul prvého slajdu"
+
+#: inc/customizer.php:295
+msgid "Title for the first slide"
+msgstr "Nadpis pre prvý slide"
+
+#: inc/onboarding/theme-info.php:31
+msgid "Welcome to Sydney"
+msgstr "Vitajte v Sydney"
+
+#: inc/customizer.php:275
+msgid "Upload your first image for the slider"
+msgstr "Nahrajte prvý obrázok pre slajder"
+
+#: inc/customizer.php:256
+msgid "First slide"
+msgstr "Prvý slajd"
+
+#: inc/customizer.php:243
+msgid "Stop the text slider?"
+msgstr "Zastaviť slider textu?"
+
+#: inc/customizer.php:229
+msgid "Slider speed in miliseconds. Use 0 to disable [default: 4000]"
+msgstr "Rýchlosť slidera v milisekundách. Použite 0 na deaktiváciu [predvolené: 4000]"
+
+#: inc/customizer.php:226
+msgid "Slider speed"
+msgstr "Rýchlosť slidera"
+
+#: inc/customizer.php:219
+msgid "4000"
+msgstr "4000"
+
+#: inc/customizer.php:189
+msgid "You can add up to 5 images in the slider. Make sure you select where to display your slider from the Header Type section found above. You can also add a Call to action button (scroll down to find the options)"
+msgstr "Do slidera môžete pridať až 5 obrázkov. Uistite sa, že ste v sekcii Typ hlavičky našli vyššie, kde sa má posúvač zobrazovať. Môžete tiež pridať tlačidlo Výzva na akciu (možnosti nájdete posunutím nadol)"
+
+#: inc/customizer.php:188
+msgid "Header Slider"
+msgstr "Slider hlavičky"
+
+#: inc/customizer.php:175
+msgid "Select the header type for all pages except the front page"
+msgstr "Vyberte typ hlavičky pre všetky stránky okrem prednej strany"
+
+#: inc/customizer.php:173
+msgid "Site header type"
+msgstr "Typ hlavičky stránky"
+
+#: inc/customizer.php:157 inc/customizer.php:180
+msgid "No header (only menu)"
+msgstr "Bez hlavičky (len menu)"
+
+#: inc/customizer.php:155 inc/customizer.php:178 inc/customizer.php:1876
+msgid "Image"
+msgstr "Obrázok"
+
+#: inc/customizer.php:154 inc/customizer.php:177 inc/customizer.php:1875
+msgid "Full screen slider"
+msgstr "Slajder na celú stránku"
+
+#: inc/customizer.php:152
+msgid "Select the header type for your front page"
+msgstr "Vyberte typ hlavičky pre úvodnú stránku"
+
+#: inc/customizer.php:150
+msgid "Front page header type"
+msgstr "Typ hlavičky úvodnej stránky"
+
+#: inc/customizer.php:135
+msgid "You can select your header type from here. After that, continue below to the next two tabs (Header Slider and Header Image) and configure them."
+msgstr "Tu môžete vybrať typ hlavičky. Potom pokračujte nižšie na nasledujúce dve karty (slajder hlavičky a obrázok hlavičky) a nakonfigurujte ich."
+
+#: inc/customizer.php:132
+msgid "Header type"
+msgstr "Typ hlavičky"
+
+#: inc/customizer.php:126
+msgid "Header area"
+msgstr "Oblasť hlavičky"
+
+#: inc/customizer.php:17 inc/customizer.php:70 inc/customizer.php:1062
+msgid "General"
+msgstr "Všeobecné"
+
+#: inc/customizer.php:16
+msgid "Site title/tagline/logo"
+msgstr "Názov stránky / slogan / logo"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Preskočiť na obsah"
+
+#: functions.php:254
+msgid "Create your menu here"
+msgstr "Tu vytvorte svoje menu"
+
+#: functions.php:108
+msgid "Footer "
+msgstr "Pätička stránky"
+
+#: functions.php:95 inc/customizer.php:1471
+msgid "Sidebar"
+msgstr "Bočný panel"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Hlavné menu"
+
+#: footer.php:26
+msgid "Theme: %2$s by %1$s."
+msgstr "Téma: %2$s od %1$s."
+
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "Hrdo poháňa %s"
+
+#: footer.php:24
+msgid "https://wordpress.org/"
+msgstr "https://sk.wordpress.org/"
+
+#: inc/template-tags.php:118 content-page.php:25
+msgid "Edit"
+msgstr "Upraviť"
+
+#: content-modern.php:35 content.php:34 content-single.php:36
+#: content-classic-alt.php:34 content-search.php:32 content-page.php:18
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nie je možné nájsť to, čo hľadáte. Skúste použiť vyhľadávanie."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ľutujeme, hľadaný výraz sa nenašiel. Prosím, skúste iné kľúčové slová."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pripravený publikovať váš prvý príspevok? <a href=\"%1$s\">Začnite tu</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nič sa nenašlo"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Nie je možné pridávať komentáre."
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Novšie komentáre &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Staršie komentáre"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Navigácia komentármi"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Názor k &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s názory k &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s názorov k &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Vypadá to tak, že sa momentálne nenašlo nič. Môžno by ste mohli skúsiť jeden z odkazov nižšie, alebo vyhľadávač?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hups! Stránka nebola nájdená."
+
+#. Author URI of the theme
+msgid "https://athemes.com"
+msgstr "https://athemes.com"
+
+#. Author of the theme
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Theme URI of the theme
+msgid "https://athemes.com/theme/sydney"
+msgstr "https://athemes.com/theme/sydney"

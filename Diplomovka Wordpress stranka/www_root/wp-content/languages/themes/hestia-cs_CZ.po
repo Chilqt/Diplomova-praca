@@ -1,0 +1,1074 @@
+# Translation of Themes - Hestia in Czech
+# This file is distributed under the same license as the Themes - Hestia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-10 13:59:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Themes - Hestia\n"
+
+#. Description of the theme
+msgid "Hestia is a modern WordPress theme for professionals. It fits creative business, small businesses (restaurants, wedding planners, sport/medical shops), startups, corporate businesses, online agencies and firms, portfolios, ecommerce (WooCommerce), and freelancers. It has a multipurpose one-page design, widgetized footer, blog/news page and a clean look, is compatible with: Flat Parallax Slider, Photo Gallery, Travel Map and Elementor Page Builder . The theme is responsive, WPML, Retina ready, SEO friendly, and uses Material Kit for design."
+msgstr "Hestia je moderní WordPress šablona pro profesionály. Hodí se kreativní firmě, malým firmám (restauracím, plánovačům svateb, sportovním/zdravotním obchodům), začínajícím firmám, korporátním společnostem, online agenturám a firmám, na portfolio, pro ecommerce obchod (WooCommerce) a nezávislým firmám. Má víceúčelový jednoprofilový design, rozšířitelné zápatí, stránku pro blog/novinky a čistý vzhled, kompatibilní s: Flat Parallax Slider, Photo Gallery, Travel Map a Elementor Page Builder. Šablona je responsibilní, WPML, Retina ready, SEO přátelská a používá pro návrh Material Kit."
+
+#. Theme Name of the theme
+#: inc/core/class-hestia-public.php:779
+#: inc/customizer/general/class-hestia-footer-controls.php:50
+#: inc/customizer/class-hestia-customizer-notices.php:78
+#: inc/views/main/class-hestia-footer.php:134
+msgid "Hestia"
+msgstr "Hestia"
+
+#: inc/views/blog/class-hestia-additional-views.php:93
+msgid "Share on Email"
+msgstr "Sdílet emailem"
+
+#: inc/admin/metabox/class-hestia-metabox-manager.php:39
+msgid "Settings"
+msgstr "Nastavení"
+
+#. translators: %s - theme name
+#: inc/core/class-hestia-admin.php:537
+msgid "%s is now installed and ready to use. We've assembled some links to get you started."
+msgstr "%s šablon je nyní připraveno k použití. Sestavili jsme několik odkazů, abyste mohli začít."
+
+#: inc/admin/metabox/class-hestia-metabox-main.php:107
+msgid "Disable Footer"
+msgstr "Zakázat zápatí"
+
+#: inc/admin/metabox/class-hestia-metabox-main.php:101
+msgid "Components"
+msgstr "Komponenty"
+
+#: inc/admin/metabox/class-hestia-metabox-main.php:102
+msgid "Disable Navigation"
+msgstr "Zakázat navigaci"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:338
+msgid "Second Layer"
+msgstr "Druhá vrstva"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:323
+msgid "First Layer"
+msgstr "První vrstva"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:366
+msgid "Extra"
+msgstr "Extra"
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:169
+#: inc/customizer/general/class-hestia-upsell-manager.php:198
+#: inc/views/class-hestia-tweaks.php:71
+#: inc/views/blog/class-hestia-featured-posts.php:141
+#: inc/views/blog/class-hestia-blog-post-layout.php:353
+msgid "Read more"
+msgstr "Číst více"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:50
+msgid "Featured Posts"
+msgstr "Doporučené příspěvky"
+
+#: functions.php:37
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by upgrading PHP to the latest version."
+msgstr "Hej, všimli jsme si, že používáte zastaralou verzi PHP, která již není podporována. Zajistěte vašim stránkám rychlost a bezpečnost aktualizací PHP na nejnovější verzi."
+
+#: inc/customizer/general/class-hestia-header-controls.php:333
+msgid "Header Settings"
+msgstr "Nastavení záhlaví"
+
+#: inc/customizer/general/class-hestia-color-controls.php:43
+msgid "Header Gradient"
+msgstr "Gradient záhlaví"
+
+#. translators: %s Required action
+#. translators: Upsell to get the pro version
+#: inc/customizer/general/class-hestia-upsell-manager.php:119
+#: inc/admin/class-hestia-admin-notices-manager.php:39
+msgid "Hestia front-page is not multi-language compatible, for this feature %s."
+msgstr "Hlavní stránka Hestia není pro více jazyků kompatibilní, pro tuto funkci %s."
+
+#: inc/customizer/general/class-hestia-header-controls.php:39
+msgid "Enable Header Image Sitewide"
+msgstr "Aktivovat obrázek v záhlaví na celém webu"
+
+#: inc/core/class-hestia-public.php:476
+#: inc/customizer/class-hestia-customizer-main.php:81
+msgid "Header Background"
+msgstr "Pozadí záhlaví"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:310
+#: inc/customizer/general/class-hestia-typography-controls.php:439
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:179
+msgid "Content"
+msgstr "Obsah"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:201
+msgid "Posts & Pages"
+msgstr "Příspěvky a stránky"
+
+#: inc/customizer/general/class-hestia-header-controls.php:125
+msgid "Enable Search in Menu"
+msgstr "Povolit vyhledávání v nabídkách"
+
+#: inc/customizer/general/class-hestia-general-controls.php:131
+msgid "Enable Scroll to Top"
+msgstr "Povolit posun nahoru"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:48
+msgctxt "label"
+msgid "Search for:"
+msgstr "Vyhledat pro:"
+
+#. Template Name of the theme
+msgid "Page with Sidebar"
+msgstr "Stránka s bočním panelem"
+
+#: inc/core/class-hestia-public.php:488
+#: inc/customizer/general/class-hestia-header-controls.php:71
+msgid "Menu"
+msgstr "Nabídky"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-blog-section.php:59
+msgid "Change this subtitle in the %s."
+msgstr "Změňte tento podtitul v %s."
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-big-title-section.php:179
+#: inc/views/front-page/class-hestia-big-title-section.php:186
+msgid "Change in the %s"
+msgstr "Změna v %s"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:100
+#: inc/customizer/general/class-hestia-header-controls.php:140
+#: inc/customizer/general/class-hestia-header-controls.php:215
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:274
+msgid "Layout"
+msgstr "Rozvržení"
+
+#: inc/views/class-hestia-tweaks.php:166 inc/views/class-hestia-tweaks.php:170
+#: inc/views/class-hestia-tweaks.php:174
+msgid "Second"
+msgstr "Druhý"
+
+#: inc/core/class-hestia-public.php:333 inc/core/class-hestia-public.php:488
+#: inc/customizer/general/class-hestia-header-controls.php:71
+#: inc/customizer/general/class-hestia-header-controls.php:266
+msgid "Very Top Bar"
+msgstr "Horní lišta"
+
+#: inc/core/class-hestia-public.php:334
+#: inc/customizer/general/class-hestia-header-controls.php:255
+msgid "Navigation"
+msgstr "Navigace"
+
+#: inc/customizer/general/class-hestia-header-controls.php:25
+msgid "Header Options"
+msgstr "Nastavení hlavičky"
+
+#: inc/customizer/general/class-hestia-general-controls.php:110
+msgid "Enable Sharing Icons"
+msgstr "Aktivovat ikony sdílení"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:77
+msgid "font size"
+msgstr "velikost písma"
+
+#: inc/core/class-hestia-public.php:471
+#: inc/customizer/general/class-hestia-typography-controls.php:146
+msgid "Body"
+msgstr "Tělo"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:73
+#: inc/customizer/general/class-hestia-typography-controls.php:129
+#: inc/customizer/general/class-hestia-typography-controls.php:146
+msgid "font family"
+msgstr "rodina fontu"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:129
+#: inc/customizer/general/class-hestia-typography-controls.php:278
+msgid "Headings"
+msgstr "Nadpisy"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:173
+msgid "Font Subsets"
+msgstr "Sady písma"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:50
+#: inc/customizer/general/class-hestia-upsell-manager.php:164
+msgid "Typography"
+msgstr "Typografie"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:55
+msgid "Google Fonts"
+msgstr "Google písma"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:54
+msgid "Standard Fonts"
+msgstr "Standardní písma"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:43
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:52
+msgid "Default"
+msgstr "Výchozí"
+
+#: inc/core/class-hestia-admin.php:257
+msgid "Display a frontpage section wherever you like by adding its shortcode in page or post content."
+msgstr "Zobrazit na úvodní stránce, kdekoli chcete, přidáním shortkódu do stránky nebo do obsahu příspěvku."
+
+#: inc/core/class-hestia-admin.php:256
+msgid "Shortcodes for each section"
+msgstr "Shortkódy pro každou sekci"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s komentář"
+msgstr[1] "%1$s komentáře"
+msgstr[2] "%1$s komentářů"
+
+#. translators: %s: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "One comment"
+msgstr "Jeden komentář"
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:175
+msgid "Activating "
+msgstr "Aktivace"
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:109
+msgid "Install and activate"
+msgstr "Instalovat a aktivovat"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-blog-section.php:59
+#: inc/views/front-page/class-hestia-big-title-section.php:179
+#: inc/views/front-page/class-hestia-big-title-section.php:186
+msgid "Customizer"
+msgstr "Přizpůsobit"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:423
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:424
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:425
+#: inc/views/front-page/class-hestia-big-title-section.php:192
+msgid "Change in the Customizer"
+msgstr "Změňte v možnostech přizpůsobení"
+
+#: inc/core/class-hestia-admin.php:251
+#: inc/customizer/general/class-hestia-upsell-manager.php:72
+msgid "The ability to reorganize your Frontpage Sections more easily and quickly."
+msgstr "Možnost jednodušeji a rychleji přeorganizovat sekce úvodní stránky."
+
+#: inc/core/class-hestia-admin.php:85 inc/core/class-hestia-admin.php:88
+msgid "Go to the Customizer"
+msgstr "Přejít do Přizpůsobení"
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:71
+msgid "Drag and drop panels to change the order of sections."
+msgstr "Přetáhněte panely a změňte pořadí sekcí."
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:107
+msgid "The ability to reorganize your Frontpage sections more easily and quickly."
+msgstr "Možnost jednodušeji a rychleji přeorganizovat sekce úvodní stránky."
+
+#: inc/customizer/controls/ui/class-hestia-control-upsell.php:72
+#: inc/customizer/controls/ui/class-hestia-section-upsell.php:84
+msgid "PRO"
+msgstr "PRO"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width"
+msgstr "Tvůrce stránek plná šířka"
+
+#. Template Name of the theme
+msgid "Page Builder Blank"
+msgstr "Tvůrce stránek prázdný"
+
+#: inc/helpers/layout-functions.php:281
+#: inc/views/main/class-hestia-top-bar.php:71
+msgid "This sidebar is active but empty. In order to use this layout, please add widgets in the sidebar"
+msgstr "Tento postranní panel je aktivní, ale prázdný. Chcete-li toto rozložení používat, prosím přidejte do bočního panelu widgety"
+
+#: inc/customizer/general/class-hestia-general-controls.php:88
+msgid "Blog Sidebar Layout"
+msgstr "Rozložení postranního panelu blogu"
+
+#: inc/customizer/general/class-hestia-general-controls.php:196
+#: inc/admin/metabox/class-hestia-metabox-main.php:46
+msgid "Right Sidebar"
+msgstr "Pravý postranní panel"
+
+#: inc/customizer/general/class-hestia-general-controls.php:192
+#: inc/admin/metabox/class-hestia-metabox-main.php:42
+msgid "Left Sidebar"
+msgstr "Levý postranní panel"
+
+#: inc/customizer/general/class-hestia-general-controls.php:188
+#: inc/admin/metabox/class-hestia-metabox-main.php:38
+msgid "Full Width"
+msgstr "Plná šířka"
+
+#: inc/customizer/general/class-hestia-general-controls.php:65
+msgid "Page Sidebar Layout"
+msgstr "Rozložení postranního panelu stránky"
+
+#: inc/core/class-hestia-public.php:332
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce postranní panel"
+
+#. Template Name of the theme
+msgid "Fullwidth Template"
+msgstr "Šablona na celou šířku obrazovky"
+
+#: inc/views/blog/class-hestia-additional-views.php:121
+msgid "Tags: "
+msgstr "Značky:"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:80
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:156
+#: inc/views/blog/class-hestia-additional-views.php:114
+msgid "Categories:"
+msgstr "Kategorie:"
+
+#: template-parts/content-none.php:39
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Patrně jste chtěli na webu zobrazit něco, co se zde bohužel nenachází. Můžete ale ještě zkusit vyhledávání pomocí zadaného klíčového slova."
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Hledaný výraz nebyl na webu nalezen. Zkuste to znovu s jinými klíčovými slovy."
+
+#: template-parts/content-none.php:25 inc/core/class-hestia-public.php:614
+msgid "Get started here"
+msgstr "Začněte zde"
+
+#. translators: %s is Link to new post
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? %s."
+msgstr "Jste připraveni publikovat svůj první příspěvek? %s."
+
+#. translators: %1$s is Time since post, %2$s is author Close tag
+#: inc/views/blog/class-hestia-blog-post-layout.php:306
+msgid "%1$s ago %2$s"
+msgstr "%1$s před %2$s"
+
+#. translators: %1$s is Author name wrapped, %2$s is Time
+#: inc/views/blog/class-hestia-blog-post-layout.php:297
+msgid "By %1$s, %2$s"
+msgstr "Od %1$s, %2$s"
+
+#. translators: search result
+#: inc/views/blog/class-hestia-header-layout-manager.php:356
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhledávání pro: %s"
+
+#. translators: %d is number of items
+#: inc/compatibility/woocommerce/functions.php:69
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d položka"
+msgstr[1] "%d položky"
+msgstr[2] "%d položek"
+
+#: inc/compatibility/woocommerce/functions.php:65
+msgid "View your shopping cart"
+msgstr "Zobrazit nákupní košík"
+
+#: inc/views/blog/class-hestia-additional-views.php:86
+msgid "Share on Twitter"
+msgstr "Sdílet na Twitter"
+
+#: inc/views/blog/class-hestia-additional-views.php:79
+msgid "Share on Facebook"
+msgstr "Sdílet na Facebook"
+
+#: inc/views/blog/class-hestia-additional-views.php:218
+msgid "Related Posts"
+msgstr "Související příspěvky"
+
+#: inc/helpers/layout-functions.php:134
+msgid "What's on your mind?"
+msgstr "Na co myslíte?"
+
+#: inc/views/class-hestia-tweaks.php:137
+msgid "Website"
+msgstr "Webová stránka"
+
+#: inc/views/class-hestia-tweaks.php:136
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/views/class-hestia-tweaks.php:135
+msgid "Name"
+msgstr "Jméno"
+
+#. translators: %s is Link to login
+#: inc/helpers/layout-functions.php:125
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Musíte být <a href=\"%s\">přihlášený</a> pro přidání komentáře."
+
+#: inc/helpers/layout-functions.php:188
+msgid "Reply"
+msgstr "Odpovědět"
+
+#: inc/helpers/layout-functions.php:177
+#: inc/customizer/controls/custom-controls/customizer-page-editor/class-hestia-page-editor.php:54
+#: inc/customizer/front-page/class-hestia-about-controls.php:161
+msgid "(Edit)"
+msgstr "(Upravit)"
+
+#. translators: %1$s is Date, %2$s is Time
+#: inc/helpers/layout-functions.php:173
+msgid "&#183; %1$s at %2$s"
+msgstr "&#183; %1$s v %2$s"
+
+#: inc/helpers/layout-functions.php:25
+msgid "Previous page"
+msgstr "Předchozí stránka"
+
+#: inc/helpers/layout-functions.php:24
+msgid "Next page"
+msgstr "Další stránka"
+
+#. translators: %s is Category name
+#: inc/helpers/layout-functions.php:722
+msgid "View all posts in %s"
+msgstr "Zobrazit všechny příspěvky v %s"
+
+#: inc/customizer/general/class-hestia-buttons-style-controls.php:46
+#: inc/views/class-hestia-tweaks.php:162 inc/views/class-hestia-tweaks.php:166
+msgid "Button"
+msgstr "Tlačítko"
+
+#: inc/core/class-hestia-public.php:778
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: inc/core/class-hestia-public.php:777
+msgid "Lorem Ipsum"
+msgstr "Lorem Ipsum"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-shop-section.php:68
+#: inc/views/front-page/class-hestia-subscribe-section.php:65
+#: inc/views/front-page/class-hestia-contact-section.php:90
+msgid "Change this subtitle in %s."
+msgstr "Změňte tento podnadpis v %s"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-shop-section.php:68
+#: inc/views/front-page/class-hestia-subscribe-section.php:65
+#: inc/views/front-page/class-hestia-contact-section.php:90
+msgid "customizer"
+msgstr "přizpůsobení"
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:43
+msgid "View PRO Features"
+msgstr "Zobrazit funkce PRO"
+
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:129
+#: inc/views/front-page/class-hestia-subscribe-section.php:69
+msgid "Subscribe to our Newsletter"
+msgstr "Přihlásit se k odběru Newsletteru"
+
+#: inc/core/class-hestia-public.php:331
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:21
+msgid "Subscribe"
+msgstr "Odebírat"
+
+#: inc/customizer/general/class-hestia-header-controls.php:215
+#: inc/customizer/front-page/class-hestia-shop-controls.php:83
+#: inc/views/front-page/class-hestia-shop-section.php:72
+msgid "Products"
+msgstr "Produkty"
+
+#: inc/customizer/front-page/class-hestia-shop-controls.php:24
+msgid "Shop"
+msgstr "Obchod"
+
+#: inc/customizer/general/class-hestia-general-controls.php:154
+msgid "If enabled, the theme will use a boxed layout."
+msgstr "Je-li tato možnost povolena, bude šablona používat rozvržení v rámečku."
+
+#: inc/customizer/general/class-hestia-general-controls.php:153
+msgid "Boxed Layout"
+msgstr "Rozvržení v rámečku"
+
+#: inc/customizer/general/class-hestia-general-controls.php:44
+#: inc/customizer/front-page/class-hestia-contact-controls.php:53
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:52
+msgid "General Settings"
+msgstr "Základní nastavení"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:57
+#: inc/customizer/front-page/class-hestia-contact-controls.php:159
+msgid "Contact Content"
+msgstr "Obsah kontaktu"
+
+#: inc/customizer/controls/ui/class-hestia-contact-info.php:31
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:111
+msgid "Instructions"
+msgstr "Instrukce"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:116
+msgid "Form Title"
+msgstr "Nadpis formuláře"
+
+#: inc/helpers/layout-functions.php:763
+#: inc/customizer/front-page/class-hestia-contact-controls.php:111
+#: inc/views/front-page/class-hestia-contact-section.php:95
+msgid "Contact Us"
+msgstr "Kontaktujte nás"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:221
+#: inc/views/front-page/class-hestia-contact-section.php:94
+msgid "Get in Touch"
+msgstr "Spojte se s námi"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:94
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:91
+msgid "Background Image"
+msgstr "Obrázek pozadí"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:21
+msgid "Contact"
+msgstr "Kontakt"
+
+#: inc/core/class-hestia-public.php:466
+#: inc/customizer/general/class-hestia-color-controls.php:25
+msgid "Accent Color"
+msgstr "Doplňková barva"
+
+#: inc/customizer/front-page/class-hestia-shop-controls.php:52
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:46
+msgid "Number of Items"
+msgstr "Počet položek"
+
+#: inc/core/abstract/class-hestia-front-page-section-controls-abstract.php:120
+#: inc/customizer/general/class-hestia-typography-controls.php:408
+msgid "Section Subtitle"
+msgstr "Podnadpis sekce"
+
+#: inc/core/abstract/class-hestia-front-page-section-controls-abstract.php:106
+#: inc/customizer/general/class-hestia-typography-controls.php:377
+msgid "Section Title"
+msgstr "Nadpis sekce"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:100
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:156
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:21
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:79
+#: inc/views/front-page/class-hestia-blog-section.php:63
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:222
+#: inc/customizer/front-page/class-hestia-shop-controls.php:84
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:130
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:80
+msgid "Change this subtitle in the Customizer"
+msgstr "Změnit podnadpis v přizpůsosbení"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:242
+msgid "Button URL"
+msgstr "URL tlačítka"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:227
+#: inc/views/class-hestia-tweaks.php:170
+msgid "Button text"
+msgstr "Text tlačítka"
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:193
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:95
+msgid "Big Title Background"
+msgstr "Pozadí velkého nadpisu"
+
+#: inc/core/class-hestia-public.php:335
+#: inc/customizer/general/class-hestia-typography-controls.php:347
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:22
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:130
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:362
+msgid "Big Title Section"
+msgstr "Sekce velkého nadpisu"
+
+#: inc/customizer/front-page/class-hestia-about-controls.php:111
+#: inc/customizer/front-page/class-hestia-about-controls.php:158
+msgid "About Content"
+msgstr "Obsah O nás"
+
+#: inc/core/abstract/class-hestia-front-page-section-controls-abstract.php:92
+#: inc/compatibility/page-builder/class-hestia-elementor-compatibility.php:122
+#: inc/compatibility/page-builder/class-hestia-beaver-builder-compatibility.php:125
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:59
+#: inc/customizer/general/class-hestia-header-controls.php:55
+#: inc/customizer/front-page/class-hestia-about-controls.php:56
+msgid "Disable section"
+msgstr "Zakázat sekci"
+
+#: inc/customizer/front-page/class-hestia-about-controls.php:32
+msgid "About"
+msgstr "O nás"
+
+#: inc/customizer/class-hestia-customizer-notices.php:158
+msgid "Recommended Plugins"
+msgstr "Doporučené pluginy"
+
+#. translators: Orbit Fox Companion
+#: inc/customizer/class-hestia-customizer-notices.php:163
+msgid "If you want to take full advantage of the options this theme has to offer, please install and activate %s."
+msgstr "Chcete-li plně využít možností, které tato šablona nabízí, prosím nainstalujte a aktivujte %s."
+
+#: inc/core/class-hestia-admin.php:103
+msgid "It is highly recommended that you install the companion plugin to have access to the Frontpage features, Team and Testimonials sections."
+msgstr "Důrazně doporučujeme nainstalovat doplňkový plugin pro přístup k funkcím v sekci Úvodní strana, Tým a Reference."
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:128
+msgid "Deactivate"
+msgstr "Deaktivovat"
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:113
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:133
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: inc/core/class-hestia-admin.php:287
+#: inc/customizer/general/class-hestia-upsell-manager.php:73
+msgid "24/7 HelpDesk Professional Support"
+msgstr "24/7 HelpDesk profesionální podpora"
+
+#: inc/core/class-hestia-admin.php:286
+#: inc/customizer/general/class-hestia-upsell-manager.php:64
+msgid "Quality Support"
+msgstr "Podpora kvality"
+
+#: inc/core/class-hestia-admin.php:269
+#: inc/customizer/general/class-hestia-upsell-manager.php:68
+msgid "Change colors for the header overlay, header text and navbar."
+msgstr "Změňte barvy pro nadpis záhlaví, text záhlaví a v navigační liště."
+
+#: inc/core/class-hestia-admin.php:268
+#: inc/customizer/general/class-hestia-upsell-manager.php:60
+msgid "Fully Customizable Colors"
+msgstr "Plně přizpůsobitelné barvy"
+
+#: inc/core/class-hestia-admin.php:263
+#: inc/customizer/general/class-hestia-upsell-manager.php:67
+msgid "You will be able to add more content to your site header with an awesome slider."
+msgstr "Do záhlaví vašeho webu budete moci přidat další obsah s úžasným posuvníkem."
+
+#: inc/core/class-hestia-admin.php:262
+#: inc/customizer/general/class-hestia-upsell-manager.php:59
+msgid "Header Slider"
+msgstr "Posuvník v záhlaví"
+
+#: inc/core/class-hestia-admin.php:245
+msgid "You can use any background image you want."
+msgstr "Možnost použít jakýkoliv obrázek pozadí."
+
+#: inc/core/class-hestia-admin.php:244
+msgid "Background image"
+msgstr "Obrázek pozadí"
+
+#: inc/core/class-hestia-admin.php:239
+msgid "Big title, Features, About, Team, Testimonials, Subscribe, Blog, Contact"
+msgstr "Velký nadpis, Vlastnosti, O nás, Tým, Reference, Odebírat, Blog, Kontakt "
+
+#: inc/core/class-hestia-admin.php:233
+msgid "Ready for e-commerce. You can build an online store here."
+msgstr "Připraveno pro e-commerce. Můžete zde vytvořit internetový obchod."
+
+#: inc/core/class-hestia-admin.php:232
+msgid "WooCommerce Compatible"
+msgstr "Kompatibilní s WooCommerce"
+
+#: inc/core/class-hestia-admin.php:227
+msgid "Responsive layout. Works on every device."
+msgstr "Responzivní vzhled. Funguje na jakémkoliv zařízení"
+
+#: inc/core/class-hestia-admin.php:226
+msgid "Mobile friendly"
+msgstr "Přizpůsobivý design"
+
+#. translators: s - theme name
+#: inc/core/class-hestia-admin.php:219
+msgid "Get %s now!"
+msgstr "Instalovat %s"
+
+#: inc/core/class-hestia-admin.php:86
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Pomocí WordPress Customizer můžete jednoduše přizpůsobit kterýkoliv prvek šablony."
+
+#: inc/core/class-hestia-admin.php:64 inc/core/class-hestia-admin.php:68
+msgid "Recommended actions"
+msgstr "Doporučené akce"
+
+#: inc/core/class-hestia-admin.php:184
+msgid "In the documentation below you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "V níže uvedené dokumentaci najdete jednoduchý způsob, jak vytvořit atraktivní vstupní stránku pomocí drag-and-drop builder pluginu."
+
+#: inc/core/class-hestia-admin.php:183
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "Vytvořte vstupní stránku přetažením obsahu"
+
+#: inc/core/class-hestia-admin.php:173
+msgid "If you find yourself in a situation where everything on your site is running very slowly, you might consider having a look at the documentation below where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "Pokud se ocitnete v situaci, kdy vše na vašem webu běží velmi pomalu, můžete se podívat na níže uvedenou dokumentaci, kde najdete nejčastější problémy, které toto způsobují a možné řešení pro každou z těchto otázek."
+
+#: inc/core/class-hestia-admin.php:172
+msgid "Speed up your site"
+msgstr "Zrychlete svůj web"
+
+#: inc/core/class-hestia-admin.php:164 inc/core/class-hestia-admin.php:175
+#: inc/core/class-hestia-admin.php:186
+msgid "View how to do this"
+msgstr "Zobrazit dokumentaci (Anglicky)"
+
+#: inc/core/class-hestia-admin.php:162
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "Pokud budete chtít provést změny v souborech šablony, tyto změny budou přepsány při následující aktualizaci šablony. Aby se tak nestalo, je třeba vytvořit odvozenou šablonu. Pro tento účel, si přečtěte dokumentaci níže."
+
+#: inc/core/class-hestia-admin.php:161
+msgid "Create a child theme"
+msgstr "Vytvořte si odvozenou šablonu"
+
+#: inc/core/class-hestia-admin.php:151
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "Chcete se dostávat informace o změnách v nejnovějších šablonách? Koukněte se na seznam změn níže."
+
+#: inc/core/class-hestia-admin.php:75 inc/core/class-hestia-admin.php:142
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:133
+msgid "Read full documentation"
+msgstr "Zobrazit kompletní dokumentaci (Anglicky)"
+
+#: inc/core/class-hestia-public.php:509 inc/core/class-hestia-admin.php:76
+#: inc/core/class-hestia-admin.php:140
+msgid "Need more details? Please check our full documentation for detailed information on how to use Hestia."
+msgstr "Potřebujete více informací? Podrobné informace o tom, jak používat Hestia, naleznete v naší úplné dokumentaci."
+
+#: inc/core/class-hestia-admin.php:128 inc/core/class-hestia-admin.php:131
+msgid "Contact Support"
+msgstr "Kontaktovat podporu (Anglicky)"
+
+#: inc/core/class-hestia-admin.php:200
+msgid "Free vs PRO"
+msgstr "Zdarma vs PRO"
+
+#: inc/core/class-hestia-admin.php:150 inc/core/class-hestia-admin.php:153
+#: inc/core/class-hestia-admin.php:196
+msgid "Changelog"
+msgstr "Přehled změn"
+
+#: inc/core/class-hestia-admin.php:124
+msgid "Support"
+msgstr "Podpora"
+
+#: inc/core/class-hestia-admin.php:109
+msgid "Useful Plugins"
+msgstr "Užitečné pluginy"
+
+#: inc/core/class-hestia-admin.php:98
+msgid "Recommended Actions"
+msgstr "Doporučené akce"
+
+#: inc/core/class-hestia-admin.php:61
+msgid "Getting Started"
+msgstr "Začínáme"
+
+#: inc/core/class-hestia-public.php:509
+msgid "About Hestia"
+msgstr "O Hestia"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:31
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:137
+#: inc/customizer/class-hestia-customizer-main.php:67
+msgid "Blog Settings"
+msgstr "Nastavení blogu"
+
+#: inc/core/class-hestia-admin.php:238
+#: inc/customizer/general/class-hestia-typography-controls.php:216
+#: inc/customizer/general/class-hestia-general-controls.php:170
+#: inc/customizer/class-hestia-customizer-main.php:56
+msgid "Frontpage Sections"
+msgstr "Sekce Úvodní stránky"
+
+#: inc/customizer/class-hestia-customizer-main.php:46
+msgid "Appearance Settings"
+msgstr "Nastavení vzhledu"
+
+#: inc/core/class-hestia-admin.php:281
+#: inc/customizer/general/class-hestia-upsell-manager.php:70
+#: inc/customizer/general/class-hestia-upsell-manager.php:106
+msgid "A fully customizable pricing plans section."
+msgstr "Plně přizpůsobitelná sekce ceníku."
+
+#: inc/core/class-hestia-admin.php:275
+#: inc/customizer/general/class-hestia-upsell-manager.php:69
+#: inc/customizer/general/class-hestia-upsell-manager.php:105
+msgid "Portfolio section with two possible layouts."
+msgstr "Sekce portfolia s dvěma možnými rozvrženími."
+
+#. translators: %s Required action
+#. translators: Upsell to get the pro version
+#: inc/customizer/general/class-hestia-upsell-manager.php:76
+#: inc/customizer/general/class-hestia-upsell-manager.php:119
+#: inc/customizer/general/class-hestia-upsell-manager.php:122
+#: inc/admin/class-hestia-admin-notices-manager.php:39
+msgid "Get the PRO version!"
+msgstr "Získejte PRO verzi!"
+
+#: inc/core/class-hestia-admin.php:250
+#: inc/customizer/general/class-hestia-upsell-manager.php:63
+#: inc/customizer/general/class-hestia-upsell-manager.php:112
+msgid "Section Reordering"
+msgstr "Vlastní uspořádání sekcí"
+
+#: inc/core/class-hestia-admin.php:280
+#: inc/customizer/general/class-hestia-upsell-manager.php:62
+#: inc/customizer/general/class-hestia-upsell-manager.php:111
+msgid "Pricing Plans Section"
+msgstr "Sekce ceníky"
+
+#: inc/core/class-hestia-admin.php:274
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:133
+#: inc/customizer/general/class-hestia-upsell-manager.php:61
+#: inc/customizer/general/class-hestia-upsell-manager.php:110
+msgid "Jetpack Portfolio"
+msgstr "Portfolio Jetpack"
+
+#: inc/core/class-hestia-admin.php:78 inc/core/class-hestia-admin.php:139
+#: inc/customizer/class-hestia-customizer-notices.php:80
+msgid "Documentation"
+msgstr "Dokumentace"
+
+#. translators: %s Path in plugin wrapped
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:117
+msgid "After installing the plugin, you need to navigate to %s and configure the plugin."
+msgstr "Po instalaci pluginu přejděte na %s a konfigurovat plugin."
+
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:55
+msgid "SendinBlue plugin"
+msgstr "SendinBlue plugin"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:789
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:827
+msgid "Add Icon"
+msgstr "Přidat ikonu"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:784
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:821
+msgid "Remove Icon"
+msgstr "Odstranit ikonu"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:753
+msgid "Social icons"
+msgstr "Ikony sociálních sítí"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:739
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:158
+msgid "None"
+msgstr "Žádné"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:734
+msgid "Image type"
+msgstr "Typ obrázku"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:721
+msgid "Upload Image"
+msgstr "Nahrát obrázek"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:718
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:738
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:97
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:152
+msgid "Image"
+msgstr "Obrázek"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:682
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:760
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:680
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:758
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Poznámka: Některé ikony se tu nemusí zobrazit. Celý seznam ikon můžete vidět na %1$s."
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:674
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:737
+msgid "Icon"
+msgstr "Ikona"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:486
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:602
+msgid "Delete field"
+msgstr "Smazat pole"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:466
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:590
+#: inc/customizer/front-page/class-hestia-contact-controls.php:185
+msgid "Shortcode"
+msgstr "Shortkód"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:434
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:455
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:563
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:581
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:781
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:807
+#: inc/views/class-hestia-tweaks.php:174
+msgid "Link"
+msgstr "Odkaz"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:424
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:445
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:554
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:572
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:200
+msgid "Text"
+msgstr "Text"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:414
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:545
+msgid "Subtitle"
+msgstr "Podnázev"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:404
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:536
+#: inc/customizer/general/class-hestia-typography-controls.php:245
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:75
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:179
+msgid "Title"
+msgstr "Název"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:381
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:393
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:516
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:526
+#: inc/views/class-hestia-tweaks.php:162 inc/views/class-hestia-tweaks.php:166
+msgid "Color"
+msgstr "Barva"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:144
+msgid "Customizer Repeater"
+msgstr "Customizer Repeater"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:139
+msgid "Add new field"
+msgstr "Přidat nové pole"
+
+#: inc/customizer/front-page/class-hestia-about-controls.php:134
+msgid "About background"
+msgstr "Pozadí O nás"
+
+#: inc/customizer/class-hestia-customizer-notices.php:114
+msgid "WooCommerce plugin"
+msgstr "WooCommerce plugin"
+
+#. translators: %1$s is Plugin Name
+#: inc/customizer/class-hestia-customizer-notices.php:113
+msgid "To have access to a shop section please install and configure %1$s."
+msgstr "Chcete-li mít přístup k sekci obchod, prosím nainstalujte ho a nakonfigurujte %1$s."
+
+#. translators: %1$s is Plugin name
+#: inc/helpers/layout-functions.php:770
+msgid "In order to add a contact form to this section, you need to install the %s plugin."
+msgstr "Chcete-li do této sekce přidat kontaktní formulář, musíte nainstalovat plugin %s."
+
+#: inc/views/main/class-hestia-header.php:111
+msgid "Toggle Navigation"
+msgstr "Přepnout navigaci"
+
+#: inc/views/class-hestia-tweaks.php:158
+msgid "Button Text"
+msgstr "Text tlačítka"
+
+#: inc/core/class-hestia-public.php:124
+#: inc/compatibility/woocommerce/functions.php:409
+msgid "View cart"
+msgstr "Zobrazit košík"
+
+#: inc/core/class-hestia-public.php:180
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "zapnuto"
+
+#: inc/core/class-hestia-public.php:179
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "zapnuto"
+
+#: inc/core/class-hestia-public.php:347
+msgid "Footer Three"
+msgstr "Zápatí tři"
+
+#: inc/core/class-hestia-public.php:346
+msgid "Footer Two"
+msgstr "Zápatí dva"
+
+#: inc/core/class-hestia-public.php:345
+msgid "Footer One"
+msgstr "Zápatí jedna"
+
+#: inc/core/class-hestia-public.php:780
+msgid "Blog Subscribe Section"
+msgstr "Sekce odběru blogu"
+
+#: inc/core/class-hestia-public.php:330
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:130
+#: inc/admin/metabox/class-hestia-metabox-main.php:56
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#: inc/core/class-hestia-public.php:487
+msgid "Footer Menu"
+msgstr "Zápatí menu"
+
+#: inc/core/class-hestia-public.php:486 inc/core/class-hestia-public.php:532
+msgid "Primary Menu"
+msgstr "Základní menu"
+
+#. translators: %s is WordPress
+#: inc/customizer/general/class-hestia-footer-controls.php:53
+msgid "WordPress"
+msgstr "WordPress"
+
+#. translators: %1$s is Theme name wrapped in <a> tag, %2$s is WordPress link
+#: inc/customizer/general/class-hestia-footer-controls.php:46
+msgid "%1$s | Powered by %2$s"
+msgstr "%1$s | pro %2$s"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Komentáře nejsou povoleny."
+
+#. translators: %s is Image sizes for attachment single page.
+#: attachment.php:47
+msgid "Size: %s"
+msgstr "Velikost: %s"
+
+#. translators: %1$s is Author name wrapped, %2$s is Date
+#: inc/views/blog/class-hestia-header-layout-manager.php:428
+msgid "Published by %1$s on %2$s"
+msgstr "Publikoval %1$s v %2$s"
+
+#. Author URI of the theme
+#: inc/views/main/class-hestia-footer.php:138
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+msgid "https://themeisle.com/themes/hestia/"
+msgstr "https://themeisle.com/themes/hestia/"
